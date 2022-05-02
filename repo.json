@@ -133,11 +133,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/emptyset0/ReAction/raw/master/latest.zip",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/emptyset0/ReAction/raw/master/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/emptyset0/ReAction/raw/master/latest.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
         "DownloadCount": 0,
         "LastUpdate": "1647599231"
     }
