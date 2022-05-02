@@ -140,5 +140,33 @@
         "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ReAction/ReAction.zip",
         "DownloadCount": 0,
         "LastUpdate": "1647599231"
+	},
+	{
+        "Author": "Horoscope developers",
+        "Name": "Divination.AetheryteLinkInChat",
+        "InternalName": "Divination.AetheryteLinkInChat",
+        "AssemblyVersion": "0.1.0.44",
+        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "teleporter"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "ImageUrls": [],
+        "Punchline": "Easy teleport for Mob Hunting"
+        "IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/icon.png",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadCount": 0
 	}
 ]
