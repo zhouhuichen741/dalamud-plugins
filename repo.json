@@ -184,8 +184,8 @@
         "DownloadCount": 0,
         "CategoryTags": ["social", "utility"],
         "LastUpdate": "1647667268",
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/LiteralMapLink/LiteralMapLink.zip",
 	}
 ]
