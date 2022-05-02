@@ -184,8 +184,8 @@
         "DownloadCount": 0,
         "CategoryTags": ["social", "utility"],
         "LastUpdate": "1647667268",
-        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
-        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
-        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
     }
 ]
