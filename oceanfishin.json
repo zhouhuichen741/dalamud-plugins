@@ -1,0 +1,170 @@
+{
+    "加拉迪翁湾": {
+      "always": {
+        "start": "磷虾",
+        "intuition": "磷虾"
+      },
+      "白天": {
+        "spectral": "石沙蚕",
+        "octopodes": [ "磷虾", "磷虾" ],
+        "sharks": [ "刺螠", "刺螠" ]
+      },
+      "黄昏": {
+        "spectral": "刺螠",
+        "octopodes": [ "磷虾", "磷虾" ],
+        "sharks": [ "刺螠", "刺螠" ]
+      },
+      "夜晚": {
+        "spectral": "磷虾",
+        "octopodes": [ "磷虾", "磷虾" ],
+        "sharks": [ "刺螠", "刺螠" ],
+        "fabled": "火萤"
+      }
+    },
+    "梅尔托尔海峡南": {
+      "always": {
+        "start": "磷虾",
+        "intuition": "刺螠"
+      },
+      "白天": {
+        "spectral": "磷虾",
+        "jellyfish": [ "石沙蚕", null ],
+        "dragons": [ "石沙蚕", null ],
+        "balloons": [ "磷虾", null ]
+      },
+      "黄昏": {
+        "spectral": "石沙蚕",
+        "jellyfish": [ "石沙蚕", "石沙蚕" ],
+        "dragons": [ "石沙蚕", null ],
+        "balloons": [ "磷虾", null ]
+      },
+      "夜晚": {
+        "spectral": "石沙蚕",
+        "jellyfish": [ "石沙蚕", null ],
+        "dragons": [ "石沙蚕", "石沙蚕 以小钓大 高级以太药虱" ],
+        "balloons": [ "磷虾", null ],
+        "fabled": "小虾肉笼"
+      }
+    },
+    "梅尔托尔海峡北": {
+      "always": {
+        "start": "石沙蚕",
+        "intuition": "石沙蚕"
+      },
+      "白天": {
+        "spectral": "刺螠",
+        "crabs": [ "磷虾", null ],
+        "balloons": [ "磷虾", null ],
+        "fabled": "重铁板勾"
+      },
+      "黄昏": {
+        "spectral": "磷虾",
+        "dragons": [ null, "石沙蚕" ],
+        "crabs": [ "磷虾", null ],
+        "balloons": [ "磷虾", null ]
+      },
+      "夜晚": {
+        "spectral": "磷虾",
+        "octopodes": [ null, "磷虾" ],
+        "crabs": [ "磷虾", "石沙蚕" ],
+        "balloons": [ "磷虾", null ]
+      }
+    },
+    "罗塔诺海": {
+      "always": {
+        "start": "刺螠",
+        "intuition": "磷虾"
+      },
+      "白天": {
+        "spectral": "刺螠",
+        "sharks": [ "刺螠", "刺螠" ],
+        "balloons": [ "石沙蚕", "石沙蚕" ]
+      },
+      "黄昏": {
+        "spectral": "石沙蚕",
+        "sharks": [ "刺螠", null ],
+        "balloons": [ "石沙蚕", "石沙蚕" ],
+        "fabled": "沟鼠尾巴"
+      },
+      "夜晚": {
+        "spectral": "磷虾",
+        "sharks": [ "刺螠", null ],
+        "jellyfish": [ null, "磷虾" ],
+        "balloons": [ "石沙蚕", "石沙蚕" ]
+      }
+    },
+    "谢尔达莱群岛": {
+      "always": {
+        "start": "石沙蚕",
+        "intuition": "磷虾"
+      },
+      "白天": {
+        "spectral": "磷虾",
+        "balloons": [ "石沙蚕", "石沙蚕" ],
+        "crabs": [ "磷虾", "磷虾" ],
+        "mantas": [ "刺螠", "刺螠" ]
+      },
+      "黄昏": {
+        "spectral": "刺螠",
+        "balloons": [ "石沙蚕", "石沙蚕" ],
+        "crabs": [ "磷虾", "磷虾" ],
+        "mantas": [ "刺螠", "刺螠" ]
+      },
+      "夜晚": {
+        "spectral": "磷虾",
+        "balloons": [ "石沙蚕", "石沙蚕" ],
+        "crabs": [ "磷虾", "磷虾" ],
+        "mantas": [ "刺螠", "刺螠" ],
+        "fabled": "乌贼丝"
+      }
+    },
+    "绯汐海": {
+      "always": {
+        "start": "磷虾",
+        "intuition": "磷虾"
+      },
+      "白天": {
+        "spectral": "石沙蚕 或 刺螠",
+        "crabs": [ "石沙蚕", "石沙蚕" ],
+        "sharks": [ null, "刺螠" ],
+        "fabled": "潮虫"
+      },
+      "黄昏": {
+        "spectral": "刺螠",
+        "crabs": [ "石沙蚕", null ],
+        "sharks": [ null, "刺螠" ]
+      },
+      "夜晚": {
+        "spectral": "磷虾 或 刺螠",
+        "crabs": [ "石沙蚕", null ],
+        "mantas": [ null, "磷虾" ],
+        "sharks": [ null, "刺螠" ]
+      }
+    },
+    "罗斯利特湾": {
+      "always": {
+        "start": "刺螠",
+        "intuition": "石沙蚕"
+      },
+      "白天": {
+        "spectral": "磷虾",
+        "balloons": [ "石沙蚕", "磷虾" ],
+        "mantas": [ null, "刺螠" ],
+        "jellyfish": [ "磷虾", null ],
+        "sharks": [ "磷虾", null ]
+      },
+      "黄昏": {
+        "spectral": "磷虾",
+        "balloons": [ "石沙蚕", null ],
+        "jellyfish": [ "磷虾", null ],
+        "sharks": [ "磷虾", null ],
+        "fabled": "石沙蚕 以小钓大 罗斯利特贝"
+      },
+      "夜晚": {
+        "spectral": "磷虾",
+        "balloons": [ "石沙蚕", "磷虾" ],
+        "jellyfish": [ "磷虾", null ],
+        "sharks": [ "磷虾", null ]
+      }
+    }
+  }

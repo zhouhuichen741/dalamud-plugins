@@ -1,0 +1,133 @@
+[
+	{
+		"Author": "Adam",
+		"Name": "Penumbra",
+		"Description": "运行时Mod加载器与管理器.",
+		"InternalName": "Penumbra",
+		"AssemblyVersion": "0.4.8.0",
+		"RepoUrl": "https://github.com/xivdev/Penumbra",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 5,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 69420,
+		"DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Penumbra/Penumbra.zip",
+		"DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Penumbra/Penumbra.zip",
+		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Penumbra/Penumbra.zip",
+		"IconUrl": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Penumbra/icon.png",
+		"Tags": [
+			"utility",
+			"adam"
+		]
+	},
+	{
+		"Author": "Sevii",
+		"Name": "Material UI",
+		"Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作",
+		"InternalName": "MaterialUI",
+		"AssemblyVersion": "1.4.5",
+		"RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
+		"ApplicableVersion": "any",
+		"ImageUrls": [
+			"https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/preview.png"
+		],
+		"DalamudApiLevel": 5,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/MaterialUI.zip",
+		"DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/MaterialUI.zip",
+		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/MaterialUI.zip",
+		"IconUrl": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/MaterialUI/icon.png",
+		"Tags": [
+			"ui",
+			"penumbra",
+			"material",
+			"skotlex",
+			"sevii",
+			"accent",
+			"color"
+		]
+	},
+	{
+		"Author": "Styr1x",
+		"Name": "Browsingway",
+		"InternalName": "Browsingway",
+		"Description": "提供游戏内浏览器渲染的Dalamud插件. 就像ACT悬浮窗, 但是是在游戏里边渲染的.\n使用下面的设置按钮或者聊天框输入 '/bw config' 指令来进行配置.\n基于Browsing Host插件制作.",
+		"AssemblyVersion": "1.0.0.4",
+		"RepoUrl": "https://github.com/Styr1x/Browsingway",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 5,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 0,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Browsingway/Browsingway.zip",
+		"DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Browsingway/Browsingway.zip",
+		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Browsingway/Browsingway.zip",
+		"IconUrl": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/Browsingway/icon.png",
+		"Tags": [
+			"framework",
+			"browser",
+			"styr1x",
+			"ui"
+		]
+	},
+	{
+		"Author": "Caraxi",
+		"Name": "Simple Tweaks Plugin",
+		"InternalName": "SimpleTweaksPlugin",
+		"AssemblyVersion": "1.6.8.3",
+		"Description": "一组能够提高生活质量的调整. 旨在改善游戏体验而不进行任何重大改变.\n所有调整都是可开关的, 默认为关闭状态. 访问Repo获得完整的调整列表. (下面的地球按钮)",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/Caraxi/SimpleTweaksPlugin",
+		"DalamudApiLevel": 5,
+		"LoadPriority": 0,
+		"Punchline": "本应该是一个简单的插件...",
+		"DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+		"DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip",
+		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/SimpleTweaksPlugin/SimpleTweaksPlugin.zip"
+	},
+	{
+		"name": "Ocean Fishin'",
+		"Author": "Sl0nderman",
+		"InternalName": "OceanFishin",
+		"Punchline": "海钓期间推荐鱼饵.",
+		"AssemblyVersion": "2.2.0.0",
+		"Description": "基于你的海钓进程推荐鱼饵. \n你会收到特殊鱼类, 捕鱼人之识和任务/成就的鱼饵推荐.",
+		"RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+		"Tags": [
+			"fishing",
+			"bait",
+			"duty"
+		],
+		"CategoryTags": [
+			"jobs"
+		],
+		"DalamudApiLevel": 5,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/OceanFishin/OceanFishin.zip",
+		"DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/OceanFishin/OceanFishin.zip",
+		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/OceanFishin/OceanFishin.zip",
+		"IconUrl": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/OceanFishin/icon.png"
+	},
+	{
+		"name": "HUD Manager",
+		"Author": "necoz (prev. ascclemens)",
+		"InternalName": "HUDManager",
+		"AssemblyVersion": "2.5.2.5",
+		"ApplicableVersion": "any",
+		"Description": "完全掌控你的界面.\n\n- 保存无限个界面布局\n- 基于条件来切换任意一个布局\n- 制作仅影响所需界面元素的子布局\n- 更改职业量谱的可见性\n- 从文本导出和导入布局",
+		"RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
+		"DalamudApiLevel": 5,
+		"LoadPriority": 0,
+		"DownloadLinkInstall": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/HUDManager/HUDManager.zip",
+		"DownloadLinkTesting": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/HUDManager/HUDManager.zip",
+		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/Yarukon/dalamud-plugins/raw/master/plugins/HUDManager/HUDManager.zip"
+	}
+]
