@@ -118,7 +118,7 @@
 	{
         "Author": "UnknownX",
         "Name": "ReAction",
-        "Punchline": "QoL for the battle system.",
+        "Punchline": "改进战斗系统.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "Auto Refocus Target",
         "InternalName": "ReAction",
@@ -145,7 +145,7 @@
         "Author": "Asvel",
         "Name": "Literal Map Link",
         "InternalName": "LiteralMapLink",
-        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
+        "Description": "当你发布游戏聊天信息时，将地图坐标文字转换为可交互的地图链接.\nWARNING:目前它只在中国版本的FFXIV客户端下测试.",
         "Tags": ["Chat", "Utility"],
         "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
         "AssemblyVersion": "1.1.0.0",
@@ -165,7 +165,7 @@
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
         "AssemblyVersion": "0.1.0.44",
-        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
+        "Description": "当聊天栏出现地图坐标时,在末尾添加传送到最近的以太之光,需要安装Teleport插件.",
         "ApplicableVersion": "any",
         "Tags": [
             "teleporter"
