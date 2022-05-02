@@ -116,7 +116,7 @@
 		"DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/HUDManager/HUDManager.zip"
 	},
     {
-        "Author": "UnknownX",
+		"Author": "UnknownX",
         "Name": "ReAction",
         "Punchline": "QoL for the battle system.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
