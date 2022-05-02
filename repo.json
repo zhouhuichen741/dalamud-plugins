@@ -133,11 +133,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ReAction/ReAction.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ReAction/ReAction.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ReAction/ReAction.zip",
         "DownloadCount": 0,
         "LastUpdate": "1647599231"
 	},
@@ -162,11 +162,11 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadCount": 0
 	},
 	{
@@ -184,8 +184,8 @@
         "DownloadCount": 0,
         "CategoryTags": ["social", "utility"],
         "LastUpdate": "1647667268",
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/LiteralMapLink/LiteralMapLink.zip",
 	}
 ]
