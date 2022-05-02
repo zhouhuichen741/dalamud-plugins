@@ -115,7 +115,7 @@
         "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/HUDManager/HUDManager.zip",
         "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/HUDManager/HUDManager.zip"
 	},
-    {
+	{
         "Author": "UnknownX",
         "Name": "ReAction",
         "Punchline": "QoL for the battle system.",
@@ -140,8 +140,8 @@
         "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/ReAction/ReAction.zip",
         "DownloadCount": 0,
         "LastUpdate": "1647599231"
-    },
-    {
+	},
+	{
         "Author": "Horoscope developers",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
@@ -168,8 +168,8 @@
         "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadCount": 0
-    },
-    {
+	},
+	{
         "Author": "Asvel",
         "Name": "Literal Map Link",
         "InternalName": "LiteralMapLink",
@@ -187,5 +187,5 @@
         "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
         "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
         "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/LiteralMapLink/LiteralMapLink.zip",
-    }
+	}
 ]
