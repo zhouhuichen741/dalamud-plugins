@@ -188,7 +188,7 @@
         "Author": "UnknownX",
         "Name": "OOBlugin",
         "Punchline": "OOB",
-        "Description": "让游戏窗口卡住一段时间.方法/frz <时间>",
+        "Description": "让游戏窗口卡住一段时间.",
         "Changelog": "",
         "InternalName": "OOBlugin",
         "AssemblyVersion": "1.1.2.6",
