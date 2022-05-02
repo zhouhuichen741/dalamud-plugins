@@ -142,31 +142,22 @@
         "LastUpdate": "1647599231"
 	},
 	{
-        "Author": "Horoscope developers",
-        "Name": "Divination.AetheryteLinkInChat",
-        "InternalName": "Divination.AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.44",
-        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
+        "Author": "Asvel",
+        "Name": "Literal Map Link",
+        "InternalName": "LiteralMapLink",
+        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
+        "Tags": ["Chat", "Utility"],
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "AssemblyVersion": "1.1.0.0",
         "ApplicableVersion": "any",
-        "Tags": [
-            "teleporter"
-        ],
-        "CategoryTags": [
-            "utility"
-        ],
         "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "ImageUrls": [],
-        "Punchline": "Easy teleport for Mob Hunting"
-        "IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
-        "DownloadCount": 0
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": ["social", "utility"],
+        "LastUpdate": "1647667268",
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/LiteralMapLink/LiteralMapLink.zip",
 	}
 ]
