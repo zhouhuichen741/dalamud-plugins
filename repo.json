@@ -168,5 +168,24 @@
         "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/src/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadCount": 0
+    },
+    {
+        "Author": "Asvel",
+        "Name": "Literal Map Link",
+        "InternalName": "LiteralMapLink",
+        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.\nWARNING: currently it's only tested under Chinese version FFXIV client.",
+        "Tags": ["Chat", "Utility"],
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "AssemblyVersion": "1.1.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": ["social", "utility"],
+        "LastUpdate": "1647667268",
+        "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
+        "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
+        "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.0.0.zip",
     }
 ]
