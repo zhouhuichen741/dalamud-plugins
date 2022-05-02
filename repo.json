@@ -1,0 +1,310 @@
+[
+	{
+        "Author": "Adam",
+        "Name": "Penumbra",
+        "Description": "运行时Mod加载器与管理器.",
+        "InternalName": "Penumbra",
+        "AssemblyVersion": "0.4.8.0",
+        "RepoUrl": "https://github.com/xivdev/Penumbra",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/Penumbra.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/Penumbra.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/Penumbra.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/icon.png",
+        "Tags": [
+            "utility",
+            "adam"
+        ]
+	},
+	{
+        "Author": "Sevii",
+        "Name": "Material UI",
+        "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作",
+        "InternalName": "MaterialUI",
+        "AssemblyVersion": "1.4.5",
+        "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
+        "ApplicableVersion": "any",
+        "ImageUrls": [
+        	"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MaterialUI/preview.png"
+        ],
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MaterialUI/MaterialUI.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MaterialUI/MaterialUI.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MaterialUI/MaterialUI.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MaterialUI/icon.png",
+        "Tags": [
+            "ui",
+            "penumbra",
+            "material",
+            "skotlex",
+            "sevii",
+            "accent",
+            "color"
+        ]
+	},
+	{
+        "Author": "Styr1x",
+        "Name": "Browsingway",
+        "InternalName": "Browsingway",
+        "Description": "提供游戏内浏览器渲染的Dalamud插件. 就像ACT悬浮窗, 但是是在游戏里边渲染的.\n使用下面的设置按钮或者聊天框输入 '/bw config' 指令来进行配置.\n基于Browsing Host插件制作.",
+        "AssemblyVersion": "1.0.0.4",
+        "RepoUrl": "https://github.com/Styr1x/Browsingway",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/icon.png",
+        "Tags": [
+            "framework",
+            "browser",
+            "styr1x",
+            "ui"
+        ]
+	},
+	{
+        "name": "Ocean Fishin'",
+        "Author": "Sl0nderman",
+        "InternalName": "OceanFishin",
+        "Punchline": "海钓期间推荐鱼饵.",
+        "AssemblyVersion": "2.2.0.0",
+        "Description": "基于你的海钓进程推荐鱼饵. \n你会收到特殊鱼类, 捕鱼人之识和任务/成就的鱼饵推荐.",
+        "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
+        "Tags": [
+            "fishing",
+            "bait",
+            "duty"
+        ],
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/OceanFishin.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/OceanFishin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/OceanFishin.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/icon.png"
+	},
+	{
+        "name": "HUD Manager",
+        "Author": "necoz (prev. ascclemens)",
+        "InternalName": "HUDManager",
+        "AssemblyVersion": "2.5.2.5",
+        "ApplicableVersion": "any",
+        "Description": "完全掌控你的界面.\n\n- 保存无限个界面布局\n- 基于条件来切换任意一个布局\n- 制作仅影响所需界面元素的子布局\n- 更改职业量谱的可见性\n- 从文本导出和导入布局",
+        "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HUDManager/HUDManager.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HUDManager/HUDManager.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HUDManager/HUDManager.zip"
+	},
+	{
+        "Author": "UnknownX",
+        "Name": "ReAction",
+        "Punchline": "改进战斗系统.",
+        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
+        "Changelog": "Auto Refocus Target",
+        "InternalName": "ReAction",
+        "AssemblyVersion": "1.1.5.0",
+        "RepoUrl": "https://github.com/UnknownX7/ReAction",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1647599231"
+	},
+	{
+        "Author": "Asvel",
+        "Name": "Literal Map Link",
+        "InternalName": "LiteralMapLink",
+        "Description": "当你发布游戏聊天信息时，将地图坐标文字转换为可交互的地图链接.\nWARNING:目前它只在中国版本的FFXIV客户端下测试.",
+        "Tags": ["Chat", "Utility"],
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "AssemblyVersion": "1.1.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "CategoryTags": ["social", "utility"],
+        "LastUpdate": "1647667268",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+	},
+	{
+        "Author": "Horoscope developers",
+        "Name": "Divination.AetheryteLinkInChat",
+        "InternalName": "Divination.AetheryteLinkInChat",
+        "AssemblyVersion": "0.1.0.44",
+        "Description": "当聊天栏出现地图坐标时,在末尾添加传送到最近的以太之光,需要安装Teleporter插件.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "teleporter"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/icon.png",
+        "DownloadCount": 0
+	},
+    {
+        "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Punchline": "OOB",
+        "Description": "让游戏窗口卡住一段时间.",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.2.6",
+        "RepoUrl": "https://github.com/UnknownX7/OOBlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OOBlugin/OOBlugin.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OOBlugin/OOBlugin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OOBlugin/OOBlugin.zip",
+        "DownloadCount": 0
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Fractionality",
+        "Punchline": "更改/wait和<wait>让它们支持分数.",
+        "Description": "让宏支持小数点后3位的等待时间，并删除60秒的上限.",
+        "Changelog": "",
+        "InternalName": "Fractionality",
+        "AssemblyVersion": "1.0.1.2",
+        "RepoUrl": "https://github.com/UnknownX7/Fractionality",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Fractionality/Fractionality.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Fractionality/Fractionality.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Fractionality/Fractionality.zip",
+        "DownloadCount": 0
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "Cammy",
+        "Punchline": "一个简单的游戏镜头设置编辑器",
+        "Description": "一个简单的游戏镜头编辑器，以改变各种游戏默认设置，如缩放和镜头位置.这是一个zoomhack，如果你不能接受它，不要安装它.",
+        "Changelog": "Free cam improvements, side offset, new death cam mode",
+        "InternalName": "Cammy",
+        "AssemblyVersion": "2.0.3.2",
+        "RepoUrl": "https://github.com/UnknownX7/Cammy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Cammy/Cammy.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Cammy/Cammy.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Cammy/Cammy.zip",
+        "DownloadCount": 0
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "DalamudRepoBrowser",
+        "Punchline": "查找并添加第三方存储库.",
+        "Description": "一个用于查找和管理第三方存储库的插件.",
+        "Changelog": "",
+        "InternalName": "DalamudRepoBrowser",
+        "AssemblyVersion": "2.0.0.2",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "other"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/DalamudRepoBrowser/DalamudRepoBrowser.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/DalamudRepoBrowser/DalamudRepoBrowser.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/DalamudRepoBrowser/DalamudRepoBrowser.zip",
+        "DownloadCount": 0
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "NoClippy",
+        "Punchline": "减少游戏某些方面的延迟影响，并可以显示GCD clips.",
+        "Description": "减少延迟对游戏某些方面的影响.可用作XivAlexander的替代品.",
+        "Changelog": "",
+        "InternalName": "NoClippy",
+        "AssemblyVersion": "0.4.0.8",
+        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
+        "DownloadCount": 0
+    }
+]
