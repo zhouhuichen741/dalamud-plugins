@@ -306,5 +306,23 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
         "DownloadCount": 0
+    },
+    {
+        "Author": "Windmourn",
+        "Name": "SkipCutscene",
+        "Punchline": "帮助你跳过随机任务:主线任务的过场动画.",
+        "Description": "这个插件可以帮助你跳过随机任务:主线任务的过场动画.",
+        "Tags": [ "utility" ],
+        "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.2.1.0",
+        "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 1,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip"
     }
 ]
