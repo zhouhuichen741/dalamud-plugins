@@ -284,8 +284,8 @@
     {
         "Author": "UnknownX",
         "Name": "NoClippy",
-        "Punchline": "减少游戏某些方面的延迟影响，并可以显示GCD clips.",
-        "Description": "减少延迟对游戏某些方面的影响.可用作XivAlexander的替代品.",
+        "Punchline": "减少游戏某些方面的延迟影响，并可以显示动画锁.",
+        "Description": "减少延迟对游戏某些方面的影响,例如能力技插入和状态.可用作XivAlexander的替代品.",
         "Changelog": "",
         "InternalName": "NoClippy",
         "AssemblyVersion": "0.4.0.8",
