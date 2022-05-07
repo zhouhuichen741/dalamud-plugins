@@ -342,5 +342,30 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/TPie.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/TPie.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/TPie.zip"
+    },
+    {
+        "Author": "Aireil",
+        "Name": "FF Logs Viewer",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "2.0.4.1",
+        "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
+        "Tags": [
+            "FFLogs",
+            "FFLog",
+            "FFLo",
+            "FFL"
+        ],
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "ImageUrls": [
+        "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/banner.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/icon.png",
+        "Punchline": "在游戏里查看玩家在FFLogs上的数据",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip"
     }
 ]
