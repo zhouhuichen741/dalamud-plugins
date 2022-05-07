@@ -348,7 +348,7 @@
         "Name": "FF Logs Viewer",
         "InternalName": "FFLogsViewer",
         "AssemblyVersion": "2.0.4.1",
-        "Description": "在游戏里查看玩家在FFLogs上的数据的插件。",
+        "Description": "在游戏里查看玩家在FFLogs上的数据的插件.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
         "Tags": [
