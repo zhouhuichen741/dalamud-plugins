@@ -370,24 +370,5 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip"
-    },
-    {
-        "Author": "ascclemens",
-        "Name": "Namingway",
-        "InternalName": "Namingway",
-        "AssemblyVersion": "1.1.6.0",
-        "Description": "重命名游戏内的能力和状态效果.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://git.annaclemens.io/ascclemens/Namingway",
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "Punchline": "重命名游戏内的能力和状态效果.",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Namingway/icon.png",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Namingway/Namingway.zip",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Namingway/Namingway.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Namingway/Namingway.zip"
     }
 ]
