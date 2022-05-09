@@ -370,5 +370,28 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip"
+    },
+    {
+        "Author": "Cai",
+        "Name": "GCDTracker",
+        "InternalName": "GCDTracker",
+        "AssemblyVersion": "1.0.2.0",
+        "Description": "监控GCD,动画锁,连击状态.实时的可视化GCD动画锁的队列中发生了什么,帮助您熟悉这一切.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/CaiClone/GCDTracker",
+        "Tags": [
+            "combat",
+            "gcd"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "ImageUrls": [
+        "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/image1.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/icon.png",
+        "Punchline": "GCD,动画锁和连击监控插件.我的龙骑还在跳吗?",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip"
     }
 ]
