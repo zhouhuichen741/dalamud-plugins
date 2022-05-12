@@ -427,7 +427,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "false",
         "LoadPriority": 0,
-        "Punchline": "允许您精准的 控制每个地图或全地图的时间和天气.",
+        "Punchline": "允许您精准的控制每个地图或全地图的时间和天气.",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
