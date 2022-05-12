@@ -412,5 +412,24 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/icon.png"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "Weatherman",
+        "InternalName": "Weatherman",
+        "AssemblyVersion": "2.4.0.1",
+        "TestingAssemblyVersion": "2.4.0.1",
+        "Description": "功能:\n-根据您的需要更改游戏内的时间和天气;\n-在每个地图内执行全局或单独的更改;\n-完全禁止不希望出现的天气.\n\n这个插件只改变视觉效果:时间/天气相关的功能,如区域背景音乐,景色,某些对象的状态将不受影响.\n只有开放飞行的地图才会受到这些变化的影响(不是每个地图都会发生变化,插件是正常工作的,这并没有出错).",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Eternita-S/Weatherman",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "false",
+        "LoadPriority": 0,
+        "Punchline": "允许准确的控制每个地图或全地图的时间和天气.",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/icon.png"
     }
 ]
