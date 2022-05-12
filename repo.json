@@ -409,6 +409,7 @@
         "IsHide": "False",
         "IsTestingExclusive": "false",
         "DownloadCount": 1,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/icon.png"
