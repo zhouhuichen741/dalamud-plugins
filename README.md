@@ -1,7 +1,7 @@
 zhouhuichen741的个人Dalamud插件仓库
 
 # 使用教程
-![image](https://user-images.githubusercontent.com/12263784/138759598-97ae7da1-b159-4e0c-b923-0cff4cca2ca4.png)
+![image](https://github.com/zhouhuichen741/dalamud-plugins/blob/master/README.jpg?raw=true)
 
 首先打开游戏中的Dalamud设置菜单, 在聊天框中输入 `/xlsettings` ,然后点击底部设置按钮.
 
