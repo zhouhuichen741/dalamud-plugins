@@ -393,5 +393,25 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip"
+    },
+    {
+        "Author": "Ottermandias",
+        "Name": "Glamourer CN",
+        "Punchline": "更改和保存角色的外观.",
+        "Description": "增加了更改和存储角色的自定义和装备外观的功能.需要安装和激活Penumbra才能工作.还可以为Penumbra的更改项目选项卡添加预览选项.",
+        "Tags": [ "Appearance", "Glamour", "Race", "Outfit", "Armor", "Clothes", "Skins", "Customization", "Design", "Character" ],
+        "InternalName": "Glamourer",
+        "AssemblyVersion": "0.0.7.4",
+        "TestingAssemblyVersion": "0.0.7.4",
+        "RepoUrl": "https://github.com/4679/Glamourer",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IsHide": "False",
+        "IsTestingExclusive": "false",
+        "DownloadCount": 1,
+        "LastUpdate": 1618608322,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/icon.png"
     }
 ]
