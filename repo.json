@@ -398,7 +398,7 @@
         "Author": "Ottermandias",
         "Name": "Glamourer CN",
         "Punchline": "更改和保存角色的外观.",
-        "Description": "与CMT类似,增加了角色的自定义选项和装备外观的更改和存储功能.需要安装和激活Penumbra才能工作.还可以为Penumbra的更改项目选项卡添加预览选项.",
+        "Description": "这个插件可以更改和存储角色的自定义选项和装备外观.需要安装和激活Penumbra才能工作.还可以为Penumbra的更改项目选项卡添加预览选项.",
         "Tags": [ "Appearance", "Glamour", "Race", "Outfit", "Armor", "Clothes", "Skins", "Customization", "Design", "Character" ],
         "InternalName": "Glamourer",
         "AssemblyVersion": "0.0.7.4",
