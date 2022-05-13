@@ -446,11 +446,11 @@
         "DalamudApiLevel": 5,
         "IconUrl": "",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/WeathermanExtras/WeathermanExtras.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WeathermanExtras/WeathermanExtras.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/WeathermanExtras/WeathermanExtras.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/WeathermanExtras/WeathermanExtras.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WeathermanExtras/WeathermanExtras.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WeathermanExtras/WeathermanExtras.zip",
         "DownloadCount": 0
     }
 ]
