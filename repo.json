@@ -167,6 +167,7 @@
         "AssemblyVersion": "0.1.0.46",
         "Description": "当聊天栏出现地图坐标时,在末尾添加传送到最近的以太之光,需要安装Teleporter插件.",
         "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
         "Tags": [
             "teleporter"
         ],
