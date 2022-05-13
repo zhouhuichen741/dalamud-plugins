@@ -433,5 +433,24 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/Weatherman.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Weatherman/icon.png"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "WeathermanExtras",
+        "Punchline": "实验性Weatherman拓展功能,使用风险自负.",
+        "Description": "Weatherman的拓展功能插件.",
+        "InternalName": "WExtras",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/Eternita-S/WExtras",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/WeathermanExtras/WeathermanExtras.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/WeathermanExtras/WeathermanExtras.zip",
+        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/WeathermanExtras/WeathermanExtras.zip",
+        "DownloadCount": 0
     }
 ]
