@@ -478,5 +478,38 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip"
+    },
+
+    {
+        "Author": "tesu",
+        "Name": "Penny Pincher CN",
+        "Punchline": "查看市场时价时自动复制当前最低价格减1的价格",
+        "Description": "用来“压一压”(将交易板上的最低价压一金)的插件\n\n正常的压价流程：\n1.打开调整物品价格的窗口\n2.查看物品在市场上的时价\n3.记下目前最低的时价\n4.使用高超的数学技巧算出压价一块后的价格\n5.关掉市场时价窗口\n6.将算出的数字填入你的售价\n7.确认物品的售价\n\n但有了这个神奇的插件，就可以在你打开市场时价窗口时，自动根据最低价计算压价后的价格并复制到你的剪贴板上，省去了困难的计算压价环节。\n\n有了这个插件，就可以轻松的完成压价：\n1.打开调整物品价格的窗口\n2.查看物品在市场上的时价\n3.关掉市场时价窗口\n4.将插件算出的数字粘贴到你的售价\n5.确认物品的售价\n\n这样省去了复杂的计算步骤，还能防止手滑少填一位数字.",
+        "Changelog": null,
+        "Tags": [
+            "marketboard",
+            "undercut",
+            "penny",
+            "clipboard"
+        ],
+        "CategoryTags":  [
+            "inventory"
+        ],
+        "IsHide": false,
+        "InternalName": "PennyPincher",
+        "AssemblyVersion": "1.4.0.2",
+        "TestingAssemblyVersion": "1.4.0.2",
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/tesu/PennyPincher",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PennyPincherCN/PennyPincherCN.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PennyPincherCN/PennyPincherCN.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PennyPincherCN/PennyPincherCN.zip",
+        "LoadPriority": 0,
+        "ImageUrls": [],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PennyPincherCN/icon.png"
     }
 ]
