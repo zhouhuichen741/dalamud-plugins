@@ -1,4 +1,4 @@
-zhouhuichen741的个人Dalamud插件仓库
+zhouhuichen741的个人Dalamud插件仓库(CN)
 
 # 使用教程
 ![image](https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/README.jpg)
