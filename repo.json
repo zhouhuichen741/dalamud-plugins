@@ -120,7 +120,6 @@
         "Name": "ReAction",
         "Punchline": "改进战斗系统.",
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "Changelog": "Auto Refocus Target",
         "InternalName": "ReAction",
         "AssemblyVersion": "1.1.5.0",
         "RepoUrl": "https://github.com/UnknownX7/ReAction",
@@ -138,8 +137,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1647599231"
+        "DownloadCount": 0
 	},
 	{
         "Author": "Asvel",
