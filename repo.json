@@ -509,8 +509,8 @@
         "IsTestingExclusive": false,
         "DalamudApiLevel": 5,
         "Punchline": "修复/重置游戏音频设备,不再需要重启游戏.",
-        "DownloadLinkInstall": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ResetAudio/ResetAudio.zip",
-        "DownloadLinkTesting": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ResetAudio/ResetAudio.zip",
-        "DownloadLinkUpdate": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/ResetAudio/ResetAudio.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip"
     }
 ]
