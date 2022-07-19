@@ -530,5 +530,31 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "MidiBard",
+        "Punchline": "使用midi文件或键盘的诗人演奏工具.",
+        "Description": "\u4f7f\u7528MIDI\u6587\u4ef6\u6216MIDI\u952e\u76d8\u8fdb\u884c\u8bd7\u4eba\u6f14\u594f\u3002\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
+        "InternalName": "MidiBard",
+        "AssemblyVersion": "1.10.1.2",
+        "RepoUrl": "https://github.com/akira0245/MidiBard",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "perform",
+            "instrument"
+        ],
+        "CategoryTags": [
+            "utility",
+            "other"
+        ],
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip"
     }
 ]
