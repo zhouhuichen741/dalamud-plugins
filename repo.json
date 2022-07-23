@@ -556,5 +556,23 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip"
+    },
+    {
+        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
+        "Name": "XIVSlothCombo",
+        "Punchline": "将职业循环整合到一个按键上.",
+        "Description": "将职业循环整合到一个按键上.",
+        "InternalName": "XIVSlothCombo",
+        "AssemblyVersion": "3.0.9.3",
+        "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip"
     }
 ]
