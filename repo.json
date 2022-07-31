@@ -537,7 +537,7 @@
         "Punchline": "使用MIDI文件或MIDI键盘进行诗人演奏.",
         "Description": "\u4f7f\u7528MIDI\u6587\u4ef6\u6216MIDI\u952e\u76d8\u8fdb\u884c\u8bd7\u4eba\u6f14\u594f\u3002\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
         "InternalName": "MidiBard",
-        "AssemblyVersion": "1.10.1.2",
+        "AssemblyVersion": "1.12.0.0",
         "RepoUrl": "https://github.com/akira0245/MidiBard",
         "ApplicableVersion": "any",
         "Tags": [
