@@ -264,34 +264,6 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip"
     },
     {
-        "Author": "Aireil",
-        "Name": "FF Logs Viewer",
-        "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.0.4.5",
-        "Punchline": "在游戏里查看玩家在FFLogs上的数据-国服版",
-        "Description": "一个可以在游戏里查看玩家上传在FFLogs上的数据的插件.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/NukoOoOoOoO/FFLogsViewer",
-        "Tags": [
-            "FFLogs",
-            "FFLog",
-            "FFLo",
-            "FFL"
-        ],
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "ImageUrls": [
-        "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/banner.png"
-        ],
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/icon.png",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip"
-    },
-    {
         "Author": "Cai",
         "Name": "GCDTracker",
         "InternalName": "GCDTracker",
@@ -377,40 +349,6 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip"
-    },
-    {
-        "Author": "ascclemens",
-        "Name": "Chat 2",
-        "Description": "Chat 2是一个完整的重写游戏内聊天窗口插件.\n支持:\n\n-无限的标签\n-总是发送到特定的频道\n-更灵活的过滤\n-RGB通道着色\n-完全可变的字体大小\n-侧栏标签\n-未读计数\n-截图模式(模糊名称)",
-        "InternalName": "ChatTwo",
-        "AssemblyVersion": "1.17.1.0",
-        "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "Punchline": "Electric Boogaloo - \u266a A whole new chat, a new fantastic chat window \u266a",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo.zip"
-    },
-    {
-        "Author": "ascclemens",
-        "Name": "Chat 2",
-        "Description": "Chat 2是一个完整的重写游戏内聊天窗口插件.\n支持:\n\n-无限的标签\n-总是发送到特定的频道\n-更灵活的过滤\n-RGB通道着色\n-完全可变的字体大小\n-侧栏标签\n-未读计数\n-截图模式(模糊名称)",
-        "InternalName": "ChatTwo",
-        "AssemblyVersion": "1.17.1.0",
-        "RepoUrl": "https://git.annaclemens.io/ascclemens/ChatTwo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "Punchline": "去除自定义字体的版本-Electric Boogaloo - \u266a A whole new chat, a new fantastic chat window \u266a",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip"
     },
     {
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
