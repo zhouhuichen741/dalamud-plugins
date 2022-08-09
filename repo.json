@@ -409,5 +409,26 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip"
+    },
+    {
+        "Author": "Kouzukii",
+        "Name": "Character Panel Refined",
+        "InternalName": "CharacterPanelRefined",
+        "AssemblyVersion": "1.1.1.1",
+        "Description": "完善角色面板，显示有用的信息，比如直击与暴击率。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "ImageUrls": [
+          "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/image1.png",
+          "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/image2.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip"
     }
 ]
