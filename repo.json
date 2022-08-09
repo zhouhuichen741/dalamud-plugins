@@ -325,7 +325,7 @@
         "TestingAssemblyVersion": "0.0.7.4",
         "RepoUrl": "https://github.com/4679/Glamourer",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 5,
         "IsHide": "False",
         "IsTestingExclusive": "false",
         "DownloadCount": 1,
