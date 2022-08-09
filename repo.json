@@ -54,68 +54,6 @@
         ]
 	},
 	{
-        "Author": "Styr1x",
-        "Name": "Browsingway",
-        "InternalName": "Browsingway",
-        "Description": "提供游戏内浏览器渲染的Dalamud插件. 就像ACT悬浮窗, 但是是在游戏里边渲染的.\n使用下面的设置按钮或者聊天框输入 '/bw config' 指令来进行配置.\n基于Browsing Host插件制作.",
-        "AssemblyVersion": "1.0.0.4",
-        "RepoUrl": "https://github.com/Styr1x/Browsingway",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 5,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/Browsingway.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Browsingway/icon.png",
-        "Tags": [
-            "framework",
-            "browser",
-            "styr1x",
-            "ui"
-        ]
-	},
-	{
-        "name": "Ocean Fishin'",
-        "Author": "Sl0nderman",
-        "InternalName": "OceanFishin",
-        "Punchline": "海钓期间推荐鱼饵.",
-        "AssemblyVersion": "2.2.0.0",
-        "Description": "基于你的海钓进程推荐鱼饵. \n你会收到特殊鱼类, 捕鱼人之识和任务/成就的鱼饵推荐.",
-        "RepoUrl": "https://github.com/markjsosnowski/OceanFishin",
-        "Tags": [
-            "fishing",
-            "bait",
-            "duty"
-        ],
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/OceanFishin.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/OceanFishin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/OceanFishin.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFishin/icon.png"
-	},
-	{
-        "name": "HUD Manager",
-        "Author": "necoz (prev. ascclemens)",
-        "InternalName": "HUDManager",
-        "AssemblyVersion": "2.5.2.5",
-        "ApplicableVersion": "any",
-        "Description": "完全掌控你的界面.\n\n- 保存无限个界面布局\n- 基于条件来切换任意一个布局\n- 制作仅影响所需界面元素的子布局\n- 更改职业量谱的可见性\n- 从文本导出和导入布局",
-        "RepoUrl": "https://github.com/zacharied/FFXIV-Plugin-HudManager",
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HUDManager/HUDManager.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HUDManager/HUDManager.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HUDManager/HUDManager.zip"
-	},
-	{
         "Author": "UnknownX",
         "Name": "ReAction",
         "Punchline": "改进战斗系统.",
@@ -326,24 +264,6 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip"
     },
     {
-        "Author": "Tischel",
-        "Name": "TPie",
-	"InternalName": "TPie",
-	"AssemblyVersion": "1.3.1.0",
-        "Description": "高自定义的环形热键栏.可以通过快捷键切换,可以包含技能,道具,装备或宏.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Tischel/TPie",
-        "Tags": ["UI"],
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "Punchline": "可自定义的环形热键栏",
-	"DownloadCount": 1,
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/icon.png",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/TPie.zip",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/TPie.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TPie/TPie.zip"
-    },
-    {
         "Author": "Aireil",
         "Name": "FF Logs Viewer",
         "InternalName": "FFLogsViewer",
@@ -405,7 +325,7 @@
         "TestingAssemblyVersion": "0.0.7.4",
         "RepoUrl": "https://github.com/4679/Glamourer",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 5,
         "IsHide": "False",
         "IsTestingExclusive": "false",
         "DownloadCount": 1,
@@ -510,26 +430,6 @@
 	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip"
-    },
-    {
-        "Author": "srkizer",
-        "Name": "ResetAudio",
-        "InternalName": "ResetAudio",
-        "AssemblyVersion": "1.0.0.3",
-        "Description": "按需重置游戏音频设备.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/Soreepeong/FFXIV-ResetAudio",
-        "Tags": [
-          "audio",
-          "reset"
-        ],
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DalamudApiLevel": 6,
-        "Punchline": "修复/重置游戏音频设备,不再需要重启游戏.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ResetAudio/ResetAudio.zip"
     },
     {
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
