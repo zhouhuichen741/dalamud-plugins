@@ -418,7 +418,7 @@
         "Description": "完善角色面板，显示有用的信息，比如直击与暴击率。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
-        "DalamudApiLevel": 5,
+        "DalamudApiLevel": 6,
         "LoadPriority": 0,
         "ImageUrls": [
           "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/image1.png",
