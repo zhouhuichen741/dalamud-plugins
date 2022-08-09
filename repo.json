@@ -385,29 +385,5 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/StarlightBreaker/StarlightBreaker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/StarlightBreaker/StarlightBreaker.zip"
-    },
-    {
-        "Author": "r00telement",
-        "Name": "Player Tags",
-        "InternalName": "PlayerTags",
-        "AssemblyVersion": "1.2.0.0",
-        "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/r00telement/PlayerTags",
-        "Tags": [
-          "Jobs",
-          "UI"
-        ],
-        "CategoryTags": [
-          "jobs",
-          "UI"
-        ],
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip"
     }
 ]
