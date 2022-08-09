@@ -440,7 +440,7 @@
         "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
         "DalamudApiLevel": 6,
         "LoadPriority": 0,
-        "Punchline": "Turn off profanity filter."
+        "Punchline": "Turn off profanity filter.",
         "IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/StarlightBreaker/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/StarlightBreaker/StarlightBreaker.zip",
         "IsHide": false,
