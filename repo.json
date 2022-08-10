@@ -409,28 +409,5 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip"
-    },
-    {
-        "Author": "karashiiro",
-        "Name": "PingPlugin",
-        "InternalName": "PingPlugin",
-        "AssemblyVersion": "2.4.1.1",
-        "Description": "A ping display plugin for Dalamud.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/karashiiro/PingPlugin",
-        "Tags": [
-          "ping",
-          "monitor",
-          "utility",
-          "tool"
-        ],
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PingPlugin/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PingPlugin/PingPlugin.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PingPlugin/PingPlugin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PingPlugin/PingPlugin.zip"
     }
 ]
