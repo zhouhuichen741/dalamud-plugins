@@ -252,7 +252,7 @@
         "Description": "这个插件可以帮助你跳过随机任务:主线任务的过场动画.",
         "Tags": [ "utility" ],
         "InternalName": "SkipCutscene",
-        "AssemblyVersion": "1.2.1.0",
+        "AssemblyVersion": "1.2.1.1",
         "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
