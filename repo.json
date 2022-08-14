@@ -403,6 +403,24 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip"
     },
     {
+        "Author": "Loskh",
+        "Name": "StarlightBreaker",
+        "InternalName": "StarlightBreaker",
+        "AssemblyVersion": "1.2.6.0",
+        "Description": "Turn off profanity filter.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Loskh/StarlightBreaker",
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "Punchline": "Turn off profanity filter.",
+        "IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/StarlightBreaker/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/StarlightBreaker/StarlightBreaker.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/StarlightBreaker/StarlightBreaker.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/StarlightBreaker/StarlightBreaker.zip"
+    },
+    {
         "Author": "r00telement",
         "Name": "Player Tags",
         "InternalName": "PlayerTags",
