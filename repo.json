@@ -441,6 +441,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
+	"IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/PlayerTags/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip"
     }
