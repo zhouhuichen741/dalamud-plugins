@@ -470,7 +470,7 @@
         "Name": "MakePlace Plugin",
         "InternalName": "MakePlacePlugin",
         "AssemblyVersion": "2.16.0.0",
-        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+        "Description": "自动保存和加载房屋家具的位置,从MakePlace中导入/导出布局.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
         "Tags": [
