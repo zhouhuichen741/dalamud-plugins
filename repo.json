@@ -444,5 +444,25 @@
 	"IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/PlayerTags/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip"
+    },
+    {
+        "Author": "XIV Tools",
+        "Name": "Customize+",
+        "Description": "一个允许你创建和应用Anamnesis导出的全身缩放插件.",
+        "InternalName": "CustomizePlus",
+        "AssemblyVersion": "0.0.0.7",
+        "TestingAssemblyVersion": "0.0.0.7",
+        "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/icon.png"
     }
 ]
