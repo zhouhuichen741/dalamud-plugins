@@ -464,5 +464,26 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/icon.png"
+    },
+    {
+        "Author": "Jawslouis",
+        "Name": "MakePlace Plugin",
+        "InternalName": "MakePlacePlugin",
+        "AssemblyVersion": "2.16.0.0",
+        "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+        "Tags": [
+          "makeplace",
+          "housing",
+          "furniture",
+          "jawslouis"
+        ],
+        "DalamudApiLevel": 6,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/icon.png"
     }
 ]
