@@ -448,7 +448,7 @@
     {
         "Author": "XIV Tools",
         "Name": "Customize+",
-        "Description": "一个允许你创建和应用Anamnesis导出的全身缩放插件.",
+        "Description": "一个允许你常驻使用Anamnesis创建的身体缩放插件..",
         "InternalName": "CustomizePlus",
         "AssemblyVersion": "0.0.0.7",
         "TestingAssemblyVersion": "0.0.0.7",
