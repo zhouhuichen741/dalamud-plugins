@@ -403,31 +403,6 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip"
     },
     {
-        "Author": "r00telement",
-        "Name": "Player Tags",
-        "InternalName": "PlayerTags",
-        "AssemblyVersion": "1.4.0.1",
-        "Description": "Lightweight job visibility in nameplates and chat. Create custom tags and add them to players with the context menu.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/r00telement/PlayerTags",
-        "Tags": [
-          "Jobs",
-          "UI"
-        ],
-        "CategoryTags": [
-          "jobs",
-          "UI"
-        ],
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-	"IconUrl": "https://www.gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/plugins/PlayerTags/icon.png",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PlayerTags/PlayerTags.zip"
-    },
-    {
         "Author": "XIV Tools",
         "Name": "Customize+",
         "Description": "一个允许你常驻使用Anamnesis创建的身体缩放插件..",
