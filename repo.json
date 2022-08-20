@@ -442,5 +442,28 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/icon.png"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "Radar",
+        "Punchline": "在屏幕和游戏地图上显示游戏实体的位置.",
+        "Description": "在屏幕和游戏地图上显示游戏实体的位置.",
+        "InternalName": "Radar",
+        "AssemblyVersion": "2.0.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "overlay",
+            "hunt",
+            "akira"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Radar/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Radar/Radar.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Radar/Radar.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Radar/Radar.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1659247509"
     }
 ]
