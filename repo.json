@@ -449,7 +449,7 @@
         "Punchline": "在屏幕和游戏地图上显示游戏实体的位置.",
         "Description": "在屏幕和游戏地图上显示游戏实体的位置.",
         "InternalName": "Radar",
-        "AssemblyVersion": "2.0.0.0",
+        "AssemblyVersion": "2.0.0.3",
         "ApplicableVersion": "any",
         "Tags": [
             "overlay",
