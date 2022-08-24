@@ -465,5 +465,24 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Radar/Radar.zip",
         "DownloadCount": 0,
         "LastUpdated": "1659247509"
+    },
+    {
+        "Author": "Eternita",
+        "Name": "UnloadErrorFuckOff",
+        "Punchline": "[仅仅适用于插件开发者] 一个清除加载和卸载错误的插件.插件开发再次变得简单!",
+        "InternalName": "UnloadErrorFuckOff",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/NightmareXIV/UnloadErrorFuckOff",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UnloadErrorFuckOff/UnloadErrorFuckOff.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UnloadErrorFuckOff/UnloadErrorFuckOff.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UnloadErrorFuckOff/UnloadErrorFuckOff.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
