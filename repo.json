@@ -484,5 +484,22 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UnloadErrorFuckOff/UnloadErrorFuckOff.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+	{
+        "Author": "Eternita",
+        "Name": "AntiAfkKick",
+        "Punchline": "用于防止FFXIV由于不活跃而自动退出登陆.安装即可,不需要配置.",
+        "InternalName": "AntiAfkKick-Dalamud",
+        "AssemblyVersion": "2.1.0.2",
+        "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
