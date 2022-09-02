@@ -390,7 +390,7 @@
         "Punchline": "将职业循环整合到一个按键上.",
         "Description": "将职业循环整合到一个按键上.",
         "InternalName": "XIVSlothCombo",
-        "AssemblyVersion": "3.0.15.1",
+        "AssemblyVersion": "3.0.16.18",
         "RepoUrl": "https://github.com/Nik-Potokar/XIVSlothCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 6,
