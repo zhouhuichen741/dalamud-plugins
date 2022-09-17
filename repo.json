@@ -260,7 +260,7 @@
         "Description": "减少延迟对游戏某些方面的影响,例如能力技插入和状态.可用作XivAlexander的替代品.",
         "Changelog": "",
         "InternalName": "NoClippy",
-        "AssemblyVersion": "0.4.0.9",
+        "AssemblyVersion": "0.4.0.12",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
         "CategoryTags": [
