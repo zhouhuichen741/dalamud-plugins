@@ -506,7 +506,7 @@
         "Author": "Kouzukii",
         "Name": "Price Insight",
         "InternalName": "PriceInsight",
-        "AssemblyVersion": "2.1.0.1",
+        "AssemblyVersion": "2.2.0.1",
         "Description": "当你的鼠标悬浮在物品上的时候, 将会提示栏底部显示市场板上的 NQ/HQ 价格和最近购买信息.\n市场板信息可能无法及时获取, 你可以移动鼠标或者按下Ctrl键刷新.\n",
         "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
         "ImageUrls": [
