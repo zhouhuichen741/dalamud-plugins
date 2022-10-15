@@ -511,13 +511,13 @@
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/daemitus/YesAlready",
         "DalamudApiLevel": 6,
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/icon.png",
         "Punchline": "在你指定的各种对话框中单击确定.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/YesAlready.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/YesAlready.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/YesAlready.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     }
