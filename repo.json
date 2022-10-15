@@ -502,7 +502,7 @@
         "DownloadCount": 0,
         "LastUpdated": "0"
     },
-	    {
+    {
         "Author": "daemitus",
         "Name": "Yes Already",
         "InternalName": "YesAlready",
@@ -512,7 +512,7 @@
         "RepoUrl": "https://github.com/daemitus/YesAlready",
         "DalamudApiLevel": 6,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/icon.png",
-        "Punchline": "在你指定的各种对话框中单击确定."
+        "Punchline": "在你指定的各种对话框中单击确定.",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
