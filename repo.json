@@ -501,5 +501,24 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    },
+	    {
+        "Author": "daemitus",
+        "Name": "Yes Already",
+        "InternalName": "YesAlready",
+        "AssemblyVersion": "1.2.2.1",
+        "Description": "自动点击所有烦人的对话框,包括跳过动画和NPC对话.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/daemitus/YesAlready",
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/icon.png",
+        "Punchline": "在你指定的各种对话框中单击确定."
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
