@@ -506,7 +506,7 @@
         "Author": "daemitus",
         "Name": "Yes Already",
         "InternalName": "YesAlready",
-        "AssemblyVersion": "1.2.2.1",
+        "AssemblyVersion": "1.2.2.3",
         "Description": "自动点击所有烦人的对话框,包括跳过动画和NPC对话.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/daemitus/YesAlready",
