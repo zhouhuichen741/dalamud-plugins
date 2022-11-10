@@ -35,7 +35,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo.zip"
 	},
@@ -52,7 +52,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ChatTwo/ChatTwo-wipeofffont.zip"
 	},
@@ -499,6 +499,28 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+	{
+        "Author": "秋水, 汐ベMoon, gamous, 逆光, 玖祁",
+        "Name": "XIV Auto Attack",
+        "InternalName": "XIVAutoAttack",
+        "AssemblyVersion": "0.9.10.3",
+        "Description": "让自动攻击成为可能,请合理使用!此插件非常刺激!目前主要用于刷幻化和日随打本.\n输入/pattack以设置帮助菜单.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/ArchiDog1998/XIVAutoAttack",
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/XIVAutoAttackIcon.png",
+        "Punchline": "在你指定的各种对话框中单击确定.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/XIVAutoAttackIcon.zip",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/ExampleDNC.gif"
+        ],
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/XIVAutoAttackIcon.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/XIVAutoAttackIcon.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     },
