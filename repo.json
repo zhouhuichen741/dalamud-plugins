@@ -513,14 +513,14 @@
         "DalamudApiLevel": 6,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/XIVAutoAttackIcon.png",
         "Punchline": "让自动攻击成为可能.",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/XIVAutoAttackIcon.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/XIVAutoAttack.zip",
         "ImageUrls": [
             "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/ExampleDNC.gif"
         ],
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/XIVAutoAttackIcon.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttackIcon/XIVAutoAttackIcon.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/XIVAutoAttack.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/XIVAutoAttack.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     },
