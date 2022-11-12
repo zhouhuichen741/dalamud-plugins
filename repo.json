@@ -525,6 +525,26 @@
         "LastUpdated": "0"
     },
     {
+        "Author": "NightmareXIV",
+        "Name": "TextAdvance",
+        "Punchline": "自动跳过对话框和确认跳过过场动画.主要用于练级.要求在每次登录后,需要启用时,输入/at命令.",
+        "Description": "",
+        "InternalName": "TextAdvance",
+        "AssemblyVersion": "3.0.0.2",
+        "RepoUrl": "https://github.com/NightmareXIV/TextAdvance",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TextAdvance/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TextAdvance/TextAdvance.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TextAdvance/TextAdvance.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TextAdvance/TextAdvance.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+    {
         "Author": "daemitus",
         "Name": "Yes Already",
         "InternalName": "YesAlready",
