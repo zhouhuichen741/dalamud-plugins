@@ -545,6 +545,25 @@
         "LastUpdated": "0"
     },
     {
+        "Author": "Det",
+        "Name": "Auto Hook",
+        "Punchline": "使钓鱼不那么无聊.",
+        "Description": "它能为你钓鱼,你敢信吗?",
+        "InternalName": "AutoHook",
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "ApplicableVersion": "any",
+        "Tags": [ "Gathering", "Fishing" ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/icon.png",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    },
+    {
         "Author": "daemitus",
         "Name": "Yes Already",
         "InternalName": "YesAlready",
