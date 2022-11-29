@@ -565,26 +565,6 @@
         "LastUpdated": "0"
     },
     {
-        "Author": "gamous",
-        "Name": "AutoMiniGame",
-        "InternalName": "AutoMiniGame",
-        "AssemblyVersion": "10.0.0.5",
-        "Description": "金碟小助手，幻卡随便抽",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/gamous/AutoMiniGame",
-        "Tags": null,
-        "DalamudApiLevel": 6,
-        "LoadPriority": 0,
-        "Punchline": "AutoMiniGame",
-        "IconUrl": null,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoMiniGame/AutoMiniGame.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoMiniGame/AutoMiniGame.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoMiniGame/AutoMiniGame.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "LastUpdated": "0"
-    },
-    {
         "Author": "Bluefissure",
         "Name": "SmartVote",
         "InternalName": "SmartVote",
