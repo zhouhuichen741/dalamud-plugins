@@ -626,6 +626,34 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/YesAlready.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/YesAlready.zip",
         "DownloadCount": 0,
-        "LastUpdated": "0"
+        "LastUpdated": "0",
+    },
+    {
+        "Author": "Kouzukii",
+        "Name": "Character Panel Refined",
+        "InternalName": "CharacterPanelRefined",
+        "AssemblyVersion": "1.6.0.2",
+        "Description": "Character Panel Refined Refined去掉了角色属性面板中没用的信息，加入了一些有用的数值，例如暴击率、直击率甚至还有期望伤害来帮你更好地比较装备.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Kouzukii/ffxiv-characterstatus-refined",
+        "Tags": [
+            "character",
+            "stats"
+        ],
+        "CategoryTags": [
+            "ui"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/image1.png",
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/image2.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/icon.png",
+        "Punchline": "改善角色面板，仅展示有用的信息，例如暴击率和直击率."
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CharacterPanelRefined/CharacterPanelRefined.zip"
     }
 ]
