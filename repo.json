@@ -156,7 +156,7 @@
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/icon.png",
         "DownloadCount": 0
 	},
-    {
+	{
         "Author": "UnknownX",
         "Name": "OOBlugin",
         "Punchline": "OOB",
@@ -484,7 +484,7 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UnloadErrorFuckOff/UnloadErrorFuckOff.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },
+	},
 	{
         "Author": "Eternita",
         "Name": "AntiAfkKick",
