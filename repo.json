@@ -25,7 +25,7 @@
 	{
         "Author": "Adam",
         "Name": "Ninja KT Plugin",
-        "Description": "运行时Mod加载器与管理器.",
+        "Description": "/nkp autoON 开启自动选中\n/nkp autoOFF 关闭自动选中\n/nkp 19 选择范围改为19（LB用）\n/nkp 25 选择范围改为25（冰遁用，其它远程也能用）.",
         "InternalName": "Ninja KT Plugin",
         "AssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/Toumei99/Ninja-KT-Plugin",
