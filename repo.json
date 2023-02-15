@@ -26,7 +26,7 @@
         "Author": "Toumei99",
         "Name": "Ninja KT Plugin",
         "Description": "能自动选择范围内血量低于50%的敌人，不会选中DK和骑士。\n/nkp autoON 开启自动选中\n/nkp autoOFF 关闭自动选中\n/nkp 19 选择范围改为19（LB用）\n/nkp 25 选择范围改为25（冰遁用，其它远程也能用）.",
-        "InternalName": "Ninja KT Plugin",
+        "InternalName": "NinjaKTPlugin",
         "AssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/Toumei99/Ninja-KT-Plugin",
         "ApplicableVersion": "any",
@@ -36,9 +36,9 @@
         "DownloadCount": 0,
         "LastUpdate": 0,
         "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ninja KT Plugin/Ninja KT Plugin.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ninja KT Plugin/Ninja KT Plugin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ninja KT Plugin/Ninja KT Plugin.zip"
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NinjaKTPlugin/NinjaKTPlugin.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NinjaKTPlugin/NinjaKTPlugin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NinjaKTPlugin/NinjaKTPlugin.zip"
 	},
 	{
         "Author": "ascclemens",
