@@ -23,6 +23,25 @@
         ]
 	},
 	{
+        "Author": "Chirp",
+        "Name": "Ktisis",
+        "InternalName": "Ktisis",
+        "Description": "一个强大的pose工具，用于在/gpose中制作截图.",
+        "AssemblyVersion": "0.2.2.2",
+        "TestingAssemblyVersion": "0.2.2.2",
+        "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "Tags": [
+            "gpose",
+            "posing"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/Ktisis.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/Ktisis.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/Ktisis.zip"
+	},
+	{
         "Author": "Adam",
         "Name": "Penumbra",
         "Description": "运行时Mod加载器与管理器.——国内仓库版",
