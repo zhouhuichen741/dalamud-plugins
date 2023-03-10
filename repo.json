@@ -60,6 +60,28 @@
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/icon.png",
 	},
 	{
+	"Author": "Puni.sh (Taurenkey)",
+	"Name": "Saucy",
+	"Punchline": "想要很多金蝶币又不想花费太多精力.",
+	"Description": "自动进行某些金蝶币小游戏.",
+	"Tags": [
+            "gold saucer",
+            "mgp",
+            "automation"
+	],
+	"InternalName": "Saucy",
+	"AssemblyVersion": "1.0.0.1",
+	"TestingAssemblyVersion": "1.0.0.1",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 8,
+	"DownloadCount": 4324,
+	"LastUpdate": 1678257728,
+	"DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
+	"DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
+	"DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
+	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png",
+	},
+	{
         "Author": "Chirp",
         "Name": "Ktisis",
         "InternalName": "Ktisis",
