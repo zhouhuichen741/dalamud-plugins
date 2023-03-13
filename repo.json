@@ -22,6 +22,30 @@
             "adam"
         ]
 	},
+	    {
+        "Author":  "veyn",
+        "Name":  "Boss Mod",
+        "InternalName":  "BossMod",
+        "AssemblyVersion":  "0.0.0.769",
+        "Description":  "6.25CN",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/awgil/ffxiv_bossmod",
+        "DalamudApiLevel":  7,
+        "LoadPriority":  0,
+        "ImageUrls":  [
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/image1.png",
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/image2.png",
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/image3.png"
+        ],
+        "IconUrl":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/icon.png",
+        "Punchline":  "不要再在raid机制上失误了.",
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "LastUpdate":  "1658532627",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/BossMod.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/BossMod.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/BossMod.zip"
+	},
 	{
         "Author": "Taurenkey & Puni.sh",
         "Name": "Artisan",
