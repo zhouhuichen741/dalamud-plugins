@@ -323,8 +323,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OOBlugin/OOBlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OOBlugin/OOBlugin.zip",
         "DownloadCount": 0
-    },
-    {
+        },
+        {
         "Author": "UnknownX",
         "Name": "Fractionality",
         "Punchline": "更改/wait和<wait>让它们支持分数.",
@@ -345,8 +345,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Fractionality/Fractionality.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Fractionality/Fractionality.zip",
         "DownloadCount": 0
-    },
-    {
+        },
+        {
         "Author": "UnknownX",
         "Name": "Cammy",
         "Punchline": "一个简单的游戏镜头设置编辑器",
@@ -370,8 +370,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Cammy/Cammy.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Cammy/Cammy.zip",
         "DownloadCount": 0
-    },
-    {
+        },
+        {
         "Author": "UnknownX",
         "Name": "DalamudRepoBrowser",
         "Punchline": "查找并添加第三方存储库.",
@@ -395,8 +395,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/DalamudRepoBrowser/DalamudRepoBrowser.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/DalamudRepoBrowser/DalamudRepoBrowser.zip",
         "DownloadCount": 0
-    },
-    {
+        },
+        {
         "Author": "UnknownX",
         "Name": "NoClippy",
         "Punchline": "减少游戏某些方面的延迟影响，并可以显示动画锁.",
@@ -421,8 +421,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
         "DownloadCount": 0
-    },
-    {
+        },
+        {
         "Author": "Windmourn",
         "Name": "SkipCutscene",
         "Punchline": "帮助你跳过随机任务:主线任务的过场动画.",
@@ -439,8 +439,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/SkipCutscene/SkipCutscene.zip"
-    },
-    {
+        },
+        {
         "Author": "Cai",
         "Name": "GCDTracker",
         "InternalName": "GCDTracker",
@@ -462,8 +462,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/GCDTracker/GCDTracker.zip"
-    },
-    {
+        },
+        {
         "Author": "Ottermandias",
         "Name": "Glamourer",
         "Punchline": "更改和保存角色的外观.",
@@ -482,8 +482,8 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/icon.png"
-    },
-    {
+        },
+        {
         "Author": "Eternita",
         "Name": "WeathermanExtras",
         "Punchline": "实验性Weatherman拓展功能,使用风险自负.",
@@ -501,8 +501,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WeathermanExtras/WeathermanExtras.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WeathermanExtras/WeathermanExtras.zip",
         "DownloadCount": 0
-    },
-    {
+        },
+        {
         "Author": "llock",
         "Name": "Auto Jail Marker",
         "Punchline": "简单的泰坦石牢",
@@ -526,8 +526,8 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip"
-    },
-    {
+        },
+        {
         "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal",
         "Name": "XIVSlothCombo",
         "Punchline": "将职业循环整合到一个按键上.",
@@ -544,8 +544,8 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVSlothCombo/XIVSlothCombo.zip"
-    },
-    {
+        },
+        {
         "Author": "XIV Tools",
         "Name": "Customize+",
         "Description": "一个允许你常驻使用Anamnesis创建的身体缩放插件..",
@@ -564,8 +564,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/icon.png"
-    },
-    {
+        },
+        {
         "Author": "Jawslouis",
         "Name": "MakePlace Plugin",
         "InternalName": "MakePlacePlugin",
@@ -585,8 +585,8 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/MakePlacePlugin.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MakePlacePlugin/icon.png"
-    },
-    {
+        },
+        {
         "Author": "akira0245",
         "Name": "Radar",
         "Punchline": "在屏幕和游戏地图上显示游戏实体的位置.",
@@ -608,8 +608,8 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Radar/Radar.zip",
         "DownloadCount": 0,
         "LastUpdated": "1659247509"
-    },
-    {
+        },
+        {
         "Author": "Eternita",
         "Name": "UnloadErrorFuckOff",
         "Punchline": "[仅仅适用于插件开发者] 一个清除加载和卸载错误的插件.插件开发再次变得简单!",
@@ -644,8 +644,8 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },
-    {
+        },
+        {
         "Author": "moewcorp",
         "Name": "Auto Action",
         "InternalName": "AutoAction_CN",
@@ -666,8 +666,8 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/XIVAutoAttack/XIVAutoAttack.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },
-    {
+        },
+        {
         "Author": "NightmareXIV",
         "Name": "TextAdvance",
         "Punchline": "自动跳过对话框和确认跳过过场动画.主要用于练级.要求在每次登录后,需要启用时,输入/at命令.",
@@ -686,8 +686,8 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/TextAdvance/TextAdvance.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },
-    {
+        },
+        {
         "Author": "Det",
         "Name": "Auto Hook",
         "Punchline": "使钓鱼不那么无聊.",
@@ -706,8 +706,8 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },
-    {
+        },
+        {
         "Author": "Bluefissure",
         "Name": "SmartVote",
         "InternalName": "SmartVote",
@@ -728,8 +728,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "0"
-    },
-    {
+        },
+        {
         "Author": "gamous",
         "Name": "PostMeteion",
         "InternalName": "PostMeteion",
@@ -751,8 +751,8 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "LastUpdated": "0"
-    },
-    {
+        },
+        {
         "Author": "daemitus",
         "Name": "Yes Already",
         "InternalName": "YesAlready",
@@ -770,5 +770,28 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/YesAlready/YesAlready.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    }
+        },
+        {
+        "Author": "Karlin",
+        "Name": "PvPSelector",
+        "InternalName": "PvPSelector",
+        "AssemblyVersion": "2.1.5.30",
+        "Description": "A plugin that allows you to select the enemy with the lowest currentHp in your range.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "",
+        "Tags": [
+            "PvP",
+            "Auto",
+            "Karlin"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "PvP helper",
+        "AcceptsFeedback": true,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PvPSelector/PvPSelector.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PvPSelector/PvPSelector.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PvPSelector/PvPSelector.zip"
+        }
 ]
