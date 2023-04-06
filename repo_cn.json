@@ -22,7 +22,31 @@
             "adam"
         ]
 	},
-	    {
+	{
+        "Author": "Meoiswa",
+        "Name": "Clarity In Chaos",
+        "InternalName": "ClarityInChaos",
+        "AssemblyVersion": "1.2.0.1",
+        "Description": "根据队伍规模自动调整战斗效果设置.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "UI",
+            "tweak",
+            "battle effects",
+            "party"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "在混乱中寻求视觉上的宁静.",
+        "DownloadLinkInstall": "https://raw.fastgit.org/zhouhuichen741/dalamud-plugins/master/plugins/ClarityInChaos/ClarityInChaos.zip",
+        "DownloadLinkTesting": "https://raw.fastgit.org/zhouhuichen741/dalamud-plugins/master/plugins/ClarityInChaos/ClarityInChaos.zip",
+        "DownloadLinkUpdate": "https://raw.fastgit.org/zhouhuichen741/dalamud-plugins/master/plugins/ClarityInChaos/ClarityInChaos.zip",
+        "IconUrl": "https://raw.fastgit.org/zhouhuichen741/dalamud-plugins/master/plugins/ClarityInChaos/icon.png",
+        "AcceptsFeedback": true
+	},
+	{
         "Author":  "veyn",
         "Name":  "Boss Mod",
         "InternalName":  "BossMod",
