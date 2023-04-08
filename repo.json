@@ -88,7 +88,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/icon.png"
 	},
 	{
         "Author": "Puni.sh",
@@ -105,7 +105,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/icon.png"
 	},
 	{
 	"Author": "Puni.sh (Taurenkey)",
@@ -127,7 +127,7 @@
 	"DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
 	"DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
 	"DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png",
+	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
 	},
 	{
         "Author": "Chirp",
@@ -295,7 +295,7 @@
         "LastUpdate": "1647667268",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip"
 	},
 	{
         "Author": "Asteria Nocturna",
