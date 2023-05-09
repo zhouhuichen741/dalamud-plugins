@@ -205,13 +205,13 @@
         "Name": "Material UI",
         "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作",
         "InternalName": "MaterialUI",
-        "AssemblyVersion": "1.4.7",
+        "AssemblyVersion": "1.4.9.0",
         "RepoUrl": "https://github.com/Sevii77/ffxiv_materialui_accent",
         "ApplicableVersion": "any",
         "ImageUrls": [
         	"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MaterialUI/preview.png"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 8,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
@@ -404,14 +404,14 @@
         "Description": "减少延迟对游戏某些方面的影响,例如能力技插入和状态.可用作XivAlexander的替代品.",
         "Changelog": "",
         "InternalName": "NoClippy",
-        "AssemblyVersion": "0.4.0.12",
+        "AssemblyVersion": "0.4.0.14",
         "RepoUrl": "https://github.com/UnknownX7/NoClippy",
         "ApplicableVersion": "any",
         "CategoryTags": [
             "jobs",
             "utility"
         ],
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 8,
         "IconUrl": "",
         "ImageUrls": [
             ""
@@ -471,11 +471,11 @@
         "Description": "这个插件可以更改和存储角色的自定义选项和装备外观.需要安装和激活Penumbra才能工作.还可以为Penumbra的更改项目选项卡添加预览选项.",
         "Tags": [ "Appearance", "Glamour", "Race", "Outfit", "Armor", "Clothes", "Skins", "Customization", "Design", "Character" ],
         "InternalName": "Glamourer",
-        "AssemblyVersion": "0.1.0.5",
-        "TestingAssemblyVersion": "0.1.0.5",
+        "AssemblyVersion": "0.1.1.5",
+        "TestingAssemblyVersion": "0.1.1.5",
         "RepoUrl": "https://github.com/4679/Glamourer",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 8,
         "IsHide": "False",
         "IsTestingExclusive": "false",
         "DownloadCount": 1,
