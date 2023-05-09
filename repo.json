@@ -134,11 +134,11 @@
         "Name": "Ktisis",
         "InternalName": "Ktisis",
         "Description": "一个强大的pose工具，用于在/gpose中制作截图.",
-        "AssemblyVersion": "0.2.2.2",
-        "TestingAssemblyVersion": "0.2.2.2",
+        "AssemblyVersion": "0.2.4.2",
+        "TestingAssemblyVersion": "0.2.4.2",
         "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "Tags": [
             "gpose",
             "posing"
