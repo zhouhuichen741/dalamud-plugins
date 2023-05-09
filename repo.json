@@ -26,7 +26,7 @@
         "Author": "Meoiswa",
         "Name": "Clarity In Chaos",
         "InternalName": "ClarityInChaos",
-        "AssemblyVersion": "1.2.0.1",
+        "AssemblyVersion": "1.3.0.0",
         "Description": "根据队伍规模自动调整战斗效果设置.",
         "ApplicableVersion": "any",
         "Tags": [
