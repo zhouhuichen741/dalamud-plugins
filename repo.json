@@ -47,6 +47,29 @@
         "AcceptsFeedback": true
 	},
 	{
+        "Author": "akira0245",
+        "Name": "MidiBard",
+        "InternalName": "MidiBard",
+        "AssemblyVersion": "1.14.0.0",
+        "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "perform",
+            "instrument"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "Punchline": "Bard performance using midi files or keyboard.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/icon.png",
+        "AcceptsFeedback": true
+	},
+	{
         "Author":  "veyn",
         "Name":  "Boss Mod",
         "InternalName":  "BossMod",
