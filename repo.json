@@ -4,7 +4,7 @@
         "Name": "Penumbra",
         "Description": "运行时Mod加载器与管理器.",
         "InternalName": "Penumbra",
-        "AssemblyVersion": "0.7.0.10",
+        "AssemblyVersion": "0.7.0.11",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
