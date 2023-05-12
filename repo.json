@@ -48,7 +48,7 @@
 	},
 	{
         "Author": "Bluefissure",
-        "Name": "No Kill Plugin",
+        "Name": "No Kill Game Plugin",
         "Description": "一个简单的插件，防止在连接大厅错误时关闭游戏.",
         "Punchline": "不要在连接大厅错误时关闭游戏.",
         "InternalName": "NoKillPlugin",
