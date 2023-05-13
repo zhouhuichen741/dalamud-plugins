@@ -198,7 +198,7 @@
         "AssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/Toumei99/Ninja-KT-Plugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "DownloadCount": 0,
