@@ -151,7 +151,7 @@
 	},
 	{
 	"Author": "Puni.sh (Taurenkey)",
-	"Name": "Saucy",
+	"Name": "Saucy CN",
 	"Punchline": "想要很多金蝶币又不想花费太多精力.",
 	"Description": "自动进行某些金蝶币小游戏.",
 	"Tags": [
@@ -192,7 +192,7 @@
 	},
 	{
         "Author": "0x",
-        "Name": "Ninja KT Plugin",
+        "Name": "Ninja KT Plugin CN",
         "Description": "能自动选择范围内血量低于50%的敌人，不会选中DK和骑士。\n/nkp autoON 开启自动选中\n/nkp autoOFF 关闭自动选中\n/nkp 19 选择范围改为19（LB用）\n/nkp 25 选择范围改为25（冰遁用，其它远程也能用）",
         "InternalName": "NKPlugin",
         "AssemblyVersion": "0.0.0.1",
