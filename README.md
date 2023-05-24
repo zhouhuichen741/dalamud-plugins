@@ -13,4 +13,4 @@ zhouhuichen741的个人Dalamud插件仓库(CN)
 
 现在这些插件会出现在插件安装程序中，可以在聊天框中输入 `/xlplugins` 来查看安装.
 
-国内源:`https://raw.fastgit.org/zhouhuichen741/dalamud-plugins/master/repo_cn.json`
+国内源:`https://gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/repo.json`
