@@ -47,25 +47,6 @@
         "AcceptsFeedback": true
 	},
 	{
-        "Author": "Bluefissure",
-        "Name": "No Kill Game Plugin",
-        "Description": "一个简单的插件，防止在连接大厅错误时关闭游戏.",
-        "Punchline": "不要在连接大厅错误时关闭游戏.",
-        "InternalName": "NoKillGamePlugin",
-        "AssemblyVersion": "1.0.7.1",
-        "RepoUrl": "https://github.com/Bluefissure/NoKillPlugin",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoKillPlugin/NoKillGamePlugin.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoKillPlugin/NoKillGamePlugin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoKillPlugin/NoKillGamePlugin.zip"
-	},
-	{
         "Author": "akira0245",
         "Name": "MidiBard",
         "InternalName": "MidiBard",
