@@ -1,28 +1,5 @@
 [
 	{
-        "Author": "Adam",
-        "Name": "Penumbra",
-        "Description": "运行时Mod加载器与管理器.",
-        "InternalName": "Penumbra",
-        "AssemblyVersion": "0.7.3.120",
-        "RepoUrl": "https://github.com/xivdev/Penumbra",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/Penumbra.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/Penumbra.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/Penumbra.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Penumbra/icon.png",
-        "Tags": [
-            "utility",
-            "adam"
-        ]
-	},
-	{
         "Author": "Meoiswa",
         "Name": "Clarity In Chaos",
         "InternalName": "ClarityInChaos",
