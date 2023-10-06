@@ -1,5 +1,23 @@
 [
 	{
+        "Author": "Haselnussbomber",
+        "Name": "HaselTweaks",
+        "Punchline": "一系列生活质量调整",
+        "Description": "继续调整",
+        "InternalName": "HaselTweaks",
+        "AssemblyVersion": "14.11.1.0",
+        "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1696564530"
+	},
+	{
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
         "Punchline": "渔人的直感",
