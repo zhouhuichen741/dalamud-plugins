@@ -18,6 +18,25 @@
         "LastUpdate": "1696564530"
 	},
 	{
+        "Author": "veyn",
+        "Name": "Island sanctuary automation",
+        "Punchline": "自动化无人岛采集",
+        "Description": "自动化无人岛采集",
+        "InternalName": "visland",
+        "AssemblyVersion": "0.0.0.7",
+        "RepoUrl": "https://github.com/awgil/ffxiv_visland",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Visland/Visland.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Visland/Visland.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Visland/Visland.zip",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Visland/icon.png",
+        "DownloadCount": 0,
+        "LastUpdate": "1696564530"
+	},
+	{
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
         "Punchline": "渔人的直感",
