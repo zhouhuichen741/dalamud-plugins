@@ -428,8 +428,8 @@
         "DalamudApiLevel": 9,
         "DownloadCount": 46888,
         "LastUpdate": 1696454327,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
         "SupportsProfiles": true,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/icon.png"
         },
