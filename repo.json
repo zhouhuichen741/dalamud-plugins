@@ -135,8 +135,8 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "3.0.4.8",
-        "TestingAssemblyVersion": "3.0.4.8",
+        "AssemblyVersion": "3.0.5.6",
+        "TestingAssemblyVersion": "3.0.5.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "DownloadCount": 19719,
