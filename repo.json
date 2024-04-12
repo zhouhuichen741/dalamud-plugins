@@ -19,6 +19,23 @@
 	},
 	{
         "Author": "veyn",
+        "Name": "Easier Faux Hollows",
+        "Punchline": "Faux Hollows solver based on known patterns",
+        "Description": "Based on ezFauxHollows, but uses known patterns instead of general-purpose solver.",
+        "Tags": [],
+        "InternalName": "vfaux",
+        "RepoUrl": "https://github.com/awgil/vfaux",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/vfaux/vfaux.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/vfaux/vfaux.zip",
+        "AssemblyVersion": "0.0.0.6",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/vfaux/icon.png",
+	"LastUpdate": "1696564530"
+	},
+	{
+        "Author": "veyn",
         "Name": "Island sanctuary automation",
         "Punchline": "自动化无人岛采集",
         "Description": "自动化无人岛采集",
