@@ -74,10 +74,10 @@
         "LastUpdate": "1696112767"
 	},
 	{
-        "Author": "akira0245",
-        "Name": "MidiBard",
-        "InternalName": "MidiBard",
-        "AssemblyVersion": "1.14.0.0",
+        "Author": "akira0245, Ori",
+        "Name": "MidiBard 2",
+        "InternalName": "MidiBard2",
+        "AssemblyVersion": "2.5.5.0",
         "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
         "ApplicableVersion": "any",
         "Tags": [
@@ -85,7 +85,7 @@
             "perform",
             "instrument"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
