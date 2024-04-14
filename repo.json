@@ -97,30 +97,6 @@
         "AcceptsFeedback": true
 	},
 	{
-        "Author":  "veyn",
-        "Name":  "Boss Mod",
-        "InternalName":  "BossMod",
-        "AssemblyVersion":  "0.0.0.922",
-        "Description":  "6.3CN",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/awgil/ffxiv_bossmod",
-        "DalamudApiLevel":  8,
-        "LoadPriority":  0,
-        "ImageUrls":  [
-            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/image1.png",
-            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/image2.png",
-            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/image3.png"
-        ],
-        "IconUrl":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/icon.png",
-        "Punchline":  "不要再在raid机制上失误了.",
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "LastUpdate":  "1658532627",
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/BossMod.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/BossMod.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BossMod/BossMod.zip"
-	},
-	{
         "Author": "Taurenkey & Puni.sh",
         "Name": "Artisan",
         "Punchline": "一个'小小的'制作插件.",
@@ -178,25 +154,6 @@
 	"DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
 	"DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
 	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
-	},
-	{
-        "Author": "Chirp",
-        "Name": "Ktisis",
-        "InternalName": "Ktisis",
-        "Description": "一个强大的pose工具，用于在/gpose中制作截图.",
-        "AssemblyVersion": "0.2.4.2",
-        "TestingAssemblyVersion": "0.2.4.2",
-        "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "Tags": [
-            "gpose",
-            "posing"
-        ],
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/icon.png",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/Ktisis.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/Ktisis.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Ktisis/Ktisis.zip"
 	},
 	{
         "Author": "0x",
@@ -317,52 +274,6 @@
         "DownloadCount": 0
 	},
         {
-        "Author": "UnknownX",
-        "Name": "NoClippy",
-        "Punchline": "减少游戏某些方面的延迟影响，并可以显示动画锁.",
-        "Description": "减少延迟对游戏某些方面的影响,例如能力技插入和状态.可用作XivAlexander的替代品.",
-        "Changelog": "",
-        "InternalName": "NoClippy",
-        "AssemblyVersion": "0.4.0.14",
-        "RepoUrl": "https://github.com/UnknownX7/NoClippy",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs",
-            "utility"
-        ],
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NoClippy/NoClippy.zip",
-        "DownloadCount": 0
-        },
-        {
-        "Author": "Ottermandias",
-        "Name": "Glamourer",
-        "Punchline": "更改和保存角色的外观.",
-        "Description": "这个插件可以更改和存储角色的自定义选项和装备外观.需要安装和激活Penumbra才能工作.还可以为Penumbra的更改项目选项卡添加预览选项.",
-        "Tags": [ "Appearance", "Glamour", "Race", "Outfit", "Armor", "Clothes", "Skins", "Customization", "Design", "Character" ],
-        "InternalName": "Glamourer",
-        "AssemblyVersion": "0.2.0.21",
-        "TestingAssemblyVersion": "0.2.0.21",
-        "RepoUrl": "https://github.com/4679/Glamourer",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "false",
-        "DownloadCount": 1,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/Glamourer.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Glamourer/icon.png"
-        },
-        {
         "Author": "llock",
         "Name": "Auto Jail Marker",
         "Punchline": "简单的泰坦石牢",
@@ -386,26 +297,6 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip"
-        },
-        {
-        "Author": "XIV Tools",
-        "Name": "Customize+",
-        "Description": "一个允许你常驻使用Anamnesis创建的身体缩放插件..",
-        "InternalName": "CustomizePlus",
-        "AssemblyVersion": "0.0.1.6",
-        "TestingAssemblyVersion": "0.0.1.6",
-        "RepoUrl": "https://github.com/XIV-Tools/CustomizePlus",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/CustomizePlus.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/CustomizePlus/icon.png"
         },
         {
         "Author": "NightmareXIV",
