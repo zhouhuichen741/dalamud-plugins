@@ -251,7 +251,7 @@
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.1255",
+        "AssemblyVersion": "6.57.1.0",
         "Punchline": "更便捷的暴民狩猎传送插件.",
         "Description": "当聊天栏出现地图坐标时,在末尾添加传送到最近的以太之光.",
         "ApplicableVersion": "any",
@@ -262,7 +262,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadPriority": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
