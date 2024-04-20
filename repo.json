@@ -158,7 +158,7 @@
 	{
         "Author": "0x",
         "Name": "0xPvpPlugin",
-        "Description": "能自动选择范围内血量低于50%的敌人，不会选中DK和骑士。",
+        "Description": "忍者索敌、会跳过DK骑士和被保护的目标、50%血以下解锁星遁天诛、关闭命水土遁(三印状态下也可缩地) /0x autoON /0x autoOFF武士突进止步不会进入连击状态(能连续放三次)/0x SLBXON /0x SLBXOFF",
         "InternalName": "0xPvpPlugin",
         "AssemblyVersion": "1.2.0.0",
         "ApplicableVersion": "any",
