@@ -156,23 +156,6 @@
 	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
 	},
 	{
-        "Author": "0x",
-        "Name": "0xPvpPlugin",
-        "Description": "忍者索敌、会跳过DK骑士和被保护的目标、50%血以下解锁星遁天诛、关闭命水土遁(三印状态下也可缩地) /0x autoON /0x autoOFF武士突进止步不会进入连击状态(能连续放三次)/0x SLBXON /0x SLBXOFF",
-        "InternalName": "0xPvpPlugin",
-        "AssemblyVersion": "1.2.0.0",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NinjaKTPlugin/NinjaKTPlugin.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NinjaKTPlugin/NinjaKTPlugin.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/NinjaKTPlugin/NinjaKTPlugin.zip"
-	},
-	{
         "Author": "Sevii",
         "Name": "Material UI",
         "Description": "自动更新 Material UI 并且支持自定义颜色和更多功能. 图标由 Meconate 制作",
