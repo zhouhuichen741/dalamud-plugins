@@ -321,12 +321,12 @@
         "LastUpdated": "0"
         },
         {
-        "Author": "NightmareXIV, NiGuangOwO (本地化)",
+        "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
         "Name": "Lifestream",
         "Punchline": "一个加速城内以太水晶传送和跨服的插件",
         "Description": "- 一键传送到任何服务器或城内以太水晶目的地\n- 点击区域地图内的以太之光传送到它们",
         "InternalName": "Lifestream",
-        "AssemblyVersion": "2.0.1.7",
+        "AssemblyVersion": "2.0.1.8",
         "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
