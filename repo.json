@@ -123,14 +123,14 @@
         "Description": "在舒适的床上分配任务给你的雇员.",
         "InternalName": "AutoRetainer",
         "AssemblyVersion": "4.2.5.10",
-        "TestingAssemblyVersion": "4.2.5.10",
+        "TestingAssemblyVersion": "4.3.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
         "DownloadCount": 5415,
         "LastUpdate": 1678407104,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer-Testing.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/icon.png"
 	},
 	{
