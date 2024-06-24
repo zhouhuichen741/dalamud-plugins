@@ -36,6 +36,23 @@
         "LastUpdate": "1696564530"
 	},
 	{
+        "Author": "Fragile",
+        "Name": "AutoOceanFish",
+        "Punchline": "自动海钓",
+        "Description": "自动海钓",
+        "Tags": [],
+        "InternalName": "KTJ",
+        "RepoUrl": null,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFish/KTJ.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OceanFish/KTJ.zip",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "9",
+        "Changelog": "",
+	"DownloadCount": 0,
+        "LastUpdate": "1696564530"
+	},
+	{
         "Author": "veyn",
         "Name": "Island sanctuary automation",
         "Punchline": "自动化无人岛采集",
