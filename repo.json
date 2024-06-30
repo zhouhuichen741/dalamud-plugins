@@ -360,7 +360,7 @@
         "Author": "Una",
         "Name": "Umbra XIV",
         "InternalName": "Umbra",
-        "AssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.6.17",
         "Description": "为游戏增加了生活质量改进功能，并将常用的用户界面元素和操作整合到一个统一的界面中。\nTranslate by DeepL/Chatgpt\n禁地优雷卡幸福兔宝箱功能适配国服\n\n仅测试用，不会长期维护",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/una-xiv/umbra",
