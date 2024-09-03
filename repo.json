@@ -380,5 +380,28 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Umbra/Umbra.zip",
         "DownloadCount": 0,
         "LastUpdate": "0"
+        },
+        {
+        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
+        "Name": "XIVSlothComboX",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "InternalName": "XIVSlothComboX",
+        "AssemblyVersion": "3.0.19.12",
+        "Changelog": "Update DNC",
+        "RepoUrl": "https://github.com/44451516/XIVSlothCombo/",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "IconUrl": "https://i.imgur.com/iEcxM81.png",
+        "ImageUrls": [
+            "https://i.imgur.com/iEcxM81.png"
+        ],
+        "DownloadLinkInstall": "https://github.com/KOGASA0X/XIVSlothComboX/raw/CN/release/XIVSlothComboX/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/KOGASA0X/XIVSlothComboX/raw/CN/release/XIVSlothComboX/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/KOGASA0X/XIVSlothComboX/raw/CN/release/XIVSlothComboX/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
         }
 ]
