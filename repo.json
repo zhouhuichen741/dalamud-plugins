@@ -142,7 +142,7 @@
         "AssemblyVersion": "4.4.1.2",
         "TestingAssemblyVersion": "4.4.1.2",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "DownloadCount": 5415,
         "LastUpdate": 1678407104,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
