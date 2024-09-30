@@ -125,7 +125,7 @@
         "AssemblyVersion": "4.0.1.8",
         "TestingAssemblyVersion": "4.0.1.8",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "DownloadCount": 19719,
         "LastUpdate": 1678389286,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
