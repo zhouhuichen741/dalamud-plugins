@@ -283,7 +283,7 @@
             "uwu"
         ],
         "InternalName": "AutoJailMarker",
-        "AssemblyVersion": "3.2.5.0",
+        "AssemblyVersion": "3.3.0.0",
         "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
