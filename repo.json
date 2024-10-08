@@ -381,27 +381,25 @@
         "DownloadCount": 0,
         "LastUpdate": "0"
         },
-        {
-        "Author": "Aki, k-kz, ele-starshade, damolitionn, Taurenkey, Augporto, grimgal, Genesis-Nova, Tartarga",
-        "Name": "XIVSlothComboX",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Description": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "InternalName": "XIVSlothComboX",
-        "AssemblyVersion": "3.0.19.12",
-        "Changelog": "Update DNC",
-        "RepoUrl": "https://github.com/44451516/XIVSlothCombo/",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 9,
-        "IconUrl": "https://i.imgur.com/iEcxM81.png",
-        "ImageUrls": [
-            "https://i.imgur.com/iEcxM81.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/KOGASA0X/XIVSlothComboX/raw/CN/release/XIVSlothComboX/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/KOGASA0X/XIVSlothComboX/raw/CN/release/XIVSlothComboX/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/KOGASA0X/XIVSlothComboX/raw/CN/release/XIVSlothComboX/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-        }
+	{
+	"AcceptsFeedback":false,
+	"ApplicableVersion":"any",
+	"AssemblyVersion":"0.1.14.0",
+	"Author":"Sevii",
+	"DalamudApiLevel":10,
+	"Description":"Auto updates mods and allows for more customization such as color and compositing onto other files",
+	"DownloadCount":57721,
+	"DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
+	"DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
+	"DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
+	"InternalName":"Aetherment",
+	"IsHide":false,"IsTestingExclusive":false,
+	"Name":"Aetherment",
+	"Punchline":"Auto-updating and more customizable mods",
+	"RepoUrl":"https://github.com/Sevii77/aetherment",
+	"Tags": [
+            "Ui",
+            "Modding"
+	]
+	}
 ]
