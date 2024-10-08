@@ -387,7 +387,7 @@
 	"AssemblyVersion":"0.1.14.0",
 	"Author":"Sevii",
 	"DalamudApiLevel":10,
-	"Description":"Auto updates mods and allows for more customization such as color and compositing onto other files",
+	"Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
 	"DownloadCount":57721,
 	"DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
 	"DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
@@ -395,7 +395,7 @@
 	"InternalName":"Aetherment",
 	"IsHide":false,"IsTestingExclusive":false,
 	"Name":"Aetherment",
-	"Punchline":"Auto-updating and more customizable mods",
+	"Punchline":"自动更新和更多的自定义Mod",
 	"RepoUrl":"https://github.com/Sevii77/aetherment",
 	"Tags": [
             "Ui",
