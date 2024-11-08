@@ -119,30 +119,6 @@
 	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
 	},
 	{
-        "Author": "UnknownX",
-        "Name": "ReAction",
-        "Punchline": "改进战斗系统.",
-        "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
-        "InternalName": "ReAction",
-        "AssemblyVersion": "1.3.3.7",
-        "RepoUrl": "https://github.com/UnknownX7/ReAction",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "jobs"
-        ],
-        "DalamudApiLevel": 9,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/ReAction/ReAction.zip",
-        "DownloadCount": 0
-	},
-	{
         "Author": "Asvel",
         "Name": "Literal Map Link",
         "InternalName": "LiteralMapLink",
