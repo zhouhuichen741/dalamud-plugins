@@ -237,6 +237,7 @@
         "Description": "本插件没有任何歧视性行为",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
+	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip"
         },
