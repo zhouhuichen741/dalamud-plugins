@@ -228,6 +228,18 @@
         "DownloadCount": 0,
         "LastUpdated": "0"
         },
+        {
+        "Author": "Avaflow, Ars Magna, Kelvin",
+        "Name": "Oops All Race",
+        "InternalName": "OopsAllRace",
+        "Punchline": "转变所有人的种族",
+        "AssemblyVersion": "9.9.9.9",
+        "Description": "本插件没有任何歧视性行为",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip"
+        },
 	{
 	"AcceptsFeedback":false,
 	"ApplicableVersion":"any",
