@@ -234,10 +234,10 @@
         "Name": "Oops All Race",
         "InternalName": "OopsAllRace",
         "Punchline": "转变所有人的种族",
-        "AssemblyVersion": "9.9.9.9",
+        "AssemblyVersion": "9.9.9.10",
         "Description": "本插件没有任何歧视性行为",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 11,
+        "DalamudApiLevel": 12,
 	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip"
