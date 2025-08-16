@@ -86,15 +86,15 @@
         "Punchline": "在舒适的床上分配任务给你的雇员.",
         "Description": "在舒适的床上分配任务给你的雇员.",
         "InternalName": "AutoRetainer",
-        "AssemblyVersion": "4.5.0.4",
-        "TestingAssemblyVersion": "4.5.0.4",
+        "AssemblyVersion": "4.5.1.13",
+        "TestingAssemblyVersion": "4.5.1.13",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 12,
         "DownloadCount": 5415,
         "LastUpdate": 1678407104,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer-Testing.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/icon.png"
 	},
 	{
@@ -264,4 +264,5 @@
 	]
 	}
 ]
+
 
