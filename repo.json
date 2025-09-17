@@ -120,25 +120,6 @@
 		"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
 		},
 		{
-        "Author": "Asvel",
-        "Name": "Literal Map Link",
-        "InternalName": "LiteralMapLink",
-        "Description": "当你发布游戏聊天信息时，将地图坐标文字转换为可交互的地图链接.\nWARNING:目前它只在中国版本的FFXIV客户端下测试.",
-        "Tags": ["Chat", "Utility"],
-        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
-        "AssemblyVersion": "1.1.9.1",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "CategoryTags": ["social", "utility"],
-        "LastUpdate": "1647667268",
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip"
-		},
-		{
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "AetheryteLinkInChat",
@@ -264,6 +245,7 @@
 		]
 		}
 ]
+
 
 
 
