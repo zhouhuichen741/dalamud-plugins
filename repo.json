@@ -24,18 +24,16 @@
 	    "InternalName": "occultCrescentHelper",
 	    "Punchline": "Wake up baby, It's touch grass time",
 	    "Name": "Occult Crescent Helper",
-	    "AssemblyVersion": "0.1.5.7",
-	    "TestingAssemblyVersion": "0.0.4.7",
+	    "AssemblyVersion": "0.1.5.8",
 	    "RepoUrl": "https://github.com/mokocup/OccultCrescentHelper",
 	    "ApplicableVersion": "any",
-	    "DalamudApiLevel": 12,
+	    "DalamudApiLevel": 13,
 	    "IsHide": "False",
 	    "DownloadCount": 0,
 	    "LastUpdate": 0,
 	    "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/icon.png",
 	    "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/occultCrescentHelper.zip",
-	    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/occultCrescentHelper.zip",
-	    "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/occultCrescentHelper.zip"
+	    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/occultCrescentHelper.zip"
  		},
 		{
         "Author": "Nukoooo",
@@ -264,6 +262,7 @@
 		]
 		}
 ]
+
 
 
 
