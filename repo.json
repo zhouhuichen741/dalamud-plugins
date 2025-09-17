@@ -19,23 +19,6 @@
         "LastUpdate": "1696564530"
 		},
 		{
-	    "Author": "Mokocup",
-	    "Description": "Automatically notifies about FATE, CE or Aurora Mirage in Occult Crescent related content.",
-	    "InternalName": "occultCrescentHelper",
-	    "Punchline": "Wake up baby, It's touch grass time",
-	    "Name": "Occult Crescent Helper",
-	    "AssemblyVersion": "0.1.5.8",
-	    "RepoUrl": "https://github.com/mokocup/OccultCrescentHelper",
-	    "ApplicableVersion": "any",
-	    "DalamudApiLevel": 13,
-	    "IsHide": "False",
-	    "DownloadCount": 0,
-	    "LastUpdate": 0,
-	    "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/icon.png",
-	    "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/occultCrescentHelper.zip",
-	    "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/occultCrescentHelper/occultCrescentHelper.zip"
- 		},
-		{
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
         "Punchline": "渔人的直感",
@@ -236,7 +219,7 @@
         "Description": "本插件没有任何歧视性行为",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/icon.png",
+		"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip"
         },
@@ -262,6 +245,7 @@
 		]
 		}
 ]
+
 
 
 
