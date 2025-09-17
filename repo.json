@@ -1,5 +1,5 @@
 [
-	{
+		{
         "Author": "Haselnussbomber,cyf5119(汉化)",
         "Name": "HaselTweaks",
         "Punchline": "一系列生活质量调整",
@@ -17,8 +17,8 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
         "DownloadCount": 0,
         "LastUpdate": "1696564530"
-	},
-	{
+		},
+		{
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
         "Punchline": "渔人的直感",
@@ -36,12 +36,12 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FishersIntuition/FishersIntuition.zip",
         "DownloadCount": 0,
         "LastUpdate": "1696112767"
-	},
-	{
+		},
+		{
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "3.1.0.0",
+        "AssemblyVersion": "3.2.0.5",
         "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
         "ApplicableVersion": "any",
         "Tags": [
@@ -49,7 +49,7 @@
             "perform",
             "instrument"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
@@ -59,8 +59,8 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/icon.png",
         "AcceptsFeedback": true
-	},
-	{
+		},
+		{
         "Author": "Taurenkey & Puni.sh",
         "Name": "Artisan",
         "Punchline": "一个'小小的'制作插件.",
@@ -69,57 +69,57 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.3.47",
-        "TestingAssemblyVersion": "4.0.3.47",
+        "AssemblyVersion": "4.0.3.63",
+        "TestingAssemblyVersion": "4.0.3.63",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadCount": 19719,
         "LastUpdate": 1678389286,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/icon.png"
-	},
-	{
+		},
+		{
         "Author": "Puni.sh",
         "Name": "AutoRetainer",
         "Punchline": "在舒适的床上分配任务给你的雇员.",
         "Description": "在舒适的床上分配任务给你的雇员.",
         "InternalName": "AutoRetainer",
-        "AssemblyVersion": "4.5.1.13",
-        "TestingAssemblyVersion": "4.5.1.13",
+        "AssemblyVersion": "4.5.1.14",
+        "TestingAssemblyVersion": "4.5.1.14",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadCount": 5415,
         "LastUpdate": 1678407104,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/icon.png"
-	},
-	{
-	"Author": "Puni.sh (Taurenkey)",
-	"Name": "Saucy",
-	"Punchline": "想要很多金蝶币又不想花费太多精力.",
-	"Description": "自动进行某些金蝶币小游戏.",
-	"Tags": [
-            "gold saucer",
-            "mgp",
-            "automation"
-	],
-	"InternalName": "Saucy",
-	"AssemblyVersion": "1.4.2.1",
-	"TestingAssemblyVersion": "1.4.2.1",
-	"ApplicableVersion": "any",
-	"DalamudApiLevel": 12,
-	"DownloadCount": 4324,
-	"LastUpdate": 1678257728,
-	"DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
-	"DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
-	"DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
-	"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
-	},
-	{
+		},
+		{
+		"Author": "Puni.sh (Taurenkey)",
+		"Name": "Saucy",
+		"Punchline": "想要很多金蝶币又不想花费太多精力.",
+		"Description": "自动进行某些金蝶币小游戏.",
+		"Tags": [
+  	          "gold saucer",
+  	          "mgp",
+  	          "automation"
+		],
+		"InternalName": "Saucy",
+		"AssemblyVersion": "1.4.2.7",
+		"TestingAssemblyVersion": "1.4.2.7",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 13,
+		"DownloadCount": 4324,
+		"LastUpdate": 1678257728,
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
+		"IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/icon.png"
+		},
+		{
         "Author": "Asvel",
         "Name": "Literal Map Link",
         "InternalName": "LiteralMapLink",
@@ -137,12 +137,12 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/LiteralMapLink/LiteralMapLink.zip"
-	},
-	{
+		},
+		{
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "AetheryteLinkInChat",
-        "AssemblyVersion": "7.2.4.1",
+        "AssemblyVersion": "7.2.4.2",
         "Punchline": "更便捷的暴民狩猎传送插件.",
         "Description": "当聊天栏出现地图坐标时,在末尾添加传送到最近的以太之光,可以联动Lifestream插件实现自动跨服传送.",
         "ApplicableVersion": "any",
@@ -153,7 +153,7 @@
         "CategoryTags": [
             "utility"
         ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -163,7 +163,7 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/icon.png",
         "DownloadCount": 0
-	},
+		},
         {
         "Author": "llock",
         "Name": "Auto Jail Marker",
@@ -175,10 +175,10 @@
             "uwu"
         ],
         "InternalName": "AutoJailMarker",
-        "AssemblyVersion": "3.4.0.0",
+        "AssemblyVersion": "3.4.1.0",
         "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "LoadPriority": 0,
         "ImageUrls": null,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/icon.png",
@@ -217,9 +217,9 @@
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "ApplicableVersion": "any",
-        "AssemblyVersion": "4.3.4.1",
+        "AssemblyVersion": "5.0.0.11",
         "Tags": [ "Gathering", "Fishing" ],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
@@ -242,28 +242,29 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/OopsAllRace/OopsAllRace.zip"
         },
-	{
-	"AcceptsFeedback":false,
-	"ApplicableVersion":"any",
-	"AssemblyVersion":"0.6.2.0",
-	"Author":"Sevii",
-	"DalamudApiLevel": 13,
-	"Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
-	"DownloadCount":57721,
-	"DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
-	"DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
-	"DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
-	"InternalName":"Aetherment",
-	"IsHide":false,"IsTestingExclusive":false,
-	"Name":"Aetherment",
-	"Punchline":"自动更新和更多的自定义Mod",
-	"RepoUrl":"https://github.com/Sevii77/aetherment",
-	"Tags": [
-            "Ui",
-            "Modding"
-	]
-	}
+		{
+		"AcceptsFeedback":false,
+		"ApplicableVersion":"any",
+		"AssemblyVersion":"0.6.2.0",
+		"Author":"Sevii",
+		"DalamudApiLevel": 13,
+		"Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
+		"DownloadCount":57721,
+		"DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
+		"DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
+		"DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
+		"InternalName":"Aetherment",
+		"IsHide":false,"IsTestingExclusive":false,
+		"Name":"Aetherment",
+		"Punchline":"自动更新和更多的自定义Mod",
+		"RepoUrl":"https://github.com/Sevii77/aetherment",
+		"Tags": [
+  	          "Ui",
+	            "Modding"
+		]
+		}
 ]
+
 
 
 
