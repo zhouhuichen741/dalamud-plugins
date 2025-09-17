@@ -24,11 +24,11 @@
         "Punchline": "渔人的直感",
         "Description": "渔人的直感",
         "InternalName": "FishersIntuition",
-        "AssemblyVersion": "1.0.0.9",
+        "AssemblyVersion": "1.0.0.10",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FishersIntuition/FishersIntuition.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -245,6 +245,7 @@
 		]
 		}
 ]
+
 
 
 
