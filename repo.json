@@ -198,7 +198,7 @@
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.0.0.11",
+        "AssemblyVersion": "5.0.0.15",
         "Tags": [ "Gathering", "Fishing" ],
         "DalamudApiLevel": 13,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/icon.png",
@@ -258,4 +258,5 @@
         ]
         }
 ]
+
 
