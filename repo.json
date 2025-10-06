@@ -248,7 +248,8 @@
         "DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
         "DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
         "InternalName":"Aetherment",
-        "IsHide":false,"IsTestingExclusive":false,
+        "IsHide":false,
+        "IsTestingExclusive":false,
         "Name":"Aetherment",
         "Punchline":"自动更新和更多的自定义Mod",
         "RepoUrl":"https://github.com/Sevii77/aetherment",
@@ -258,5 +259,6 @@
         ]
         }
 ]
+
 
 
