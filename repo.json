@@ -5,7 +5,7 @@
         "Punchline": "一系列生活质量调整",
         "Description": "继续调整",
         "InternalName": "HaselTweaks",
-        "AssemblyVersion": "38.0.4.0",
+        "AssemblyVersion": "40.0.1.1",
         "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 13,
@@ -259,6 +259,7 @@
         ]
         }
 ]
+
 
 
 
