@@ -228,10 +228,10 @@
         "Name": "Used Name Reborn",
         "InternalName": "UsedNameReborn",
         "Punchline": "一个用于记录玩家曾用名和昵称的简单工具。",
-        "AssemblyVersion": "0.8.9.3",
+        "AssemblyVersion": "0.8.9.4",
         "Description": "一个基于好友列表的简单工具，用于记录玩家曾用名和昵称。右键点击目标即可添加/删除/查看玩家的曾用名和昵称",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/UsedNameReborn.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/UsedNameReborn.zip"
@@ -259,6 +259,7 @@
         ]
         }
 ]
+
 
 
 
