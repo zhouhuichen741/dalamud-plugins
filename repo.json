@@ -178,11 +178,11 @@
         "Changelog": "- Fixed crash",
         "IsHide": false,
         "InternalName": "AntiAfkKick-Dalamud",
-        "AssemblyVersion": "2.1.0.9",
+        "AssemblyVersion": "2.1.0.10",
         "IsTestingExclusive": false,
         "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadCount": 46888,
         "LastUpdate": 1696454327,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
@@ -259,6 +259,7 @@
         ]
         }
 ]
+
 
 
 
