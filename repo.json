@@ -24,11 +24,11 @@
         "Punchline": "渔人的直感",
         "Description": "渔人的直感",
         "InternalName": "FishersIntuition",
-        "AssemblyVersion": "1.0.0.10",
+        "AssemblyVersion": "1.0.0.12",
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "Tags": [],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FishersIntuition/FishersIntuition.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
@@ -41,7 +41,7 @@
         "Author": "akira0245, Ori",
         "Name": "MidiBard 2",
         "InternalName": "MidiBard2",
-        "AssemblyVersion": "3.2.0.5",
+        "AssemblyVersion": "3.2.3.0",
         "Description": "使用MIDI文件或MIDI键盘进行诗人演奏。\nBard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch",
         "ApplicableVersion": "any",
         "Tags": [
@@ -49,7 +49,7 @@
             "perform",
             "instrument"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
@@ -69,10 +69,10 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.3.63",
-        "TestingAssemblyVersion": "4.0.3.63",
+        "AssemblyVersion": "4.0.4.10",
+        "TestingAssemblyVersion": "4.0.4.10",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadCount": 19719,
         "LastUpdate": 1678389286,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
@@ -86,10 +86,10 @@
         "Punchline": "在舒适的床上分配任务给你的雇员.",
         "Description": "在舒适的床上分配任务给你的雇员.",
         "InternalName": "AutoRetainer",
-        "AssemblyVersion": "4.5.1.14",
-        "TestingAssemblyVersion": "4.5.1.14",
+        "AssemblyVersion": "4.5.5.0",
+        "TestingAssemblyVersion": "4.5.5.0",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadCount": 5415,
         "LastUpdate": 1678407104,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
@@ -108,10 +108,10 @@
             "automation"
         ],
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.4.2.7",
-        "TestingAssemblyVersion": "1.4.2.7",
+        "AssemblyVersion": "1.4.2.8",
+        "TestingAssemblyVersion": "1.4.2.8",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadCount": 4324,
         "LastUpdate": 1678257728,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
@@ -156,10 +156,10 @@
             "uwu"
         ],
         "InternalName": "AutoJailMarker",
-        "AssemblyVersion": "3.4.1.0",
+        "AssemblyVersion": "3.4.3.0",
         "RepoUrl": "https://github.com/LockonS483/AutoJailMarker",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "LoadPriority": 0,
         "ImageUrls": null,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/icon.png",
@@ -198,9 +198,9 @@
         "InternalName": "AutoHook",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "ApplicableVersion": "any",
-        "AssemblyVersion": "5.0.0.15",
+        "AssemblyVersion": "5.0.0.27",
         "Tags": [ "Gathering", "Fishing" ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
@@ -259,6 +259,7 @@
         ]
         }
 ]
+
 
 
 
