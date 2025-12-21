@@ -236,6 +236,25 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/UsedNameReborn.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/UsedNameReborn.zip"
         },
+		{
+        "Author": "Anna",
+        "Name": "Peeping Tom S",
+        "Description": "看看你的",
+        "InternalName": "PeepingTomS",
+        "AssemblyVersion": "1.8.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+		"Description": "谁在看我? pvp中可用",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/images/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip"
+        },
         {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
@@ -259,6 +278,7 @@
         ]
         }
 ]
+
 
 
 
