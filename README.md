@@ -1,5 +1,8 @@
 zhouhuichen741的个人Dalamud插件仓库(CN)
 
+#Update Log
+国服7.4  .Net10 API14 已全部更新.
+
 # 使用教程
 ![image](https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/README.jpg)
 
