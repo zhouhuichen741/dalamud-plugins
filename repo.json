@@ -250,7 +250,7 @@
         "DownloadCount": 0,
         "LastUpdate": 0,
         "LoadPriority": 69420,
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/images/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip"
@@ -278,6 +278,7 @@
         ]
         }
 ]
+
 
 
 
