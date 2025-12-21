@@ -258,9 +258,9 @@
         {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
-        "AssemblyVersion":"0.6.2.0",
+        "AssemblyVersion":"0.6.3.1",
         "Author":"Sevii",
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
         "DownloadCount":57721,
         "DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
@@ -278,23 +278,3 @@
         ]
         }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
