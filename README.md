@@ -1,8 +1,5 @@
 zhouhuichen741的个人Dalamud插件仓库(CN)
 
-# Update Log
-国服7.4  .Net10 API14 已全部更新.
-
 # 使用教程
 ![image](https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/README.jpg)
 
@@ -15,5 +12,8 @@ zhouhuichen741的个人Dalamud插件仓库(CN)
 4. 点击“保存并关闭”按钮.
 
 现在这些插件会出现在插件安装程序中，可以在聊天框中输入 `/xlplugins` 来查看安装.
+
+# Update Log
+国服7.4  .Net10 API14 已全部更新.
 
 国内源(挂了,失效):`https://gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/repo.json`
