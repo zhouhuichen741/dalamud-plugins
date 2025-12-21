@@ -123,7 +123,7 @@
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "AetheryteLinkInChat",
-        "AssemblyVersion": "7.3.1.15",
+        "AssemblyVersion": "7.3.1.16",
         "Punchline": "更便捷的暴民狩猎传送插件.",
         "Description": "当聊天栏出现地图坐标时,在末尾添加传送到最近的以太之光,可以联动Lifestream插件实现自动跨服传送.",
         "ApplicableVersion": "any",
@@ -278,6 +278,7 @@
         ]
         }
 ]
+
 
 
 
