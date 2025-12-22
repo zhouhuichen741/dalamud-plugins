@@ -14,9 +14,7 @@
         "IsTestingExclusive": false,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1696564530"
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip"
         },
         {
         "Author": "Nukoooo",
@@ -33,9 +31,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FishersIntuition/FishersIntuition.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FishersIntuition/FishersIntuition.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1696112767"
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FishersIntuition/FishersIntuition.zip"
         },
         {
         "Author": "akira0245, Ori",
@@ -73,8 +69,6 @@
         "TestingAssemblyVersion": "4.0.4.16",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
-        "DownloadCount": 19719,
-        "LastUpdate": 1678389286,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
@@ -90,8 +84,6 @@
         "TestingAssemblyVersion": "4.5.5.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
-        "DownloadCount": 5415,
-        "LastUpdate": 1678407104,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoRetainer/AutoRetainer.zip",
@@ -112,8 +104,6 @@
         "TestingAssemblyVersion": "1.4.2.8",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
-        "DownloadCount": 4324,
-        "LastUpdate": 1678257728,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
@@ -138,12 +128,10 @@
         "LoadPriority": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdate": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/Divination.AetheryteLinkInChat.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/icon.png",
-        "DownloadCount": 0
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Divination.AetheryteLinkInChat/icon.png"
 		},
         {
         "Author": "llock",
@@ -165,7 +153,6 @@
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/icon.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadCount": 0,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoJailMarker/AutoJailMarker.zip"
@@ -183,8 +170,6 @@
         "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
-        "DownloadCount": 46888,
-        "LastUpdate": 1696454327,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AntiAfkKick/AntiAfkKick.zip",
         "SupportsProfiles": true,
@@ -206,9 +191,7 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AutoHook/AutoHook.zip",
         "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "0"
+        "IsTestingExclusive": false
         },
         {
         "Author": "Avaflow, Ars Magna, Kelvin",
@@ -247,9 +230,6 @@
 		"Description": "谁在看我? pvp中可用",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadCount": 0,
-        "LastUpdate": 0,
-        "LoadPriority": 69420,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
@@ -262,7 +242,6 @@
         "Author":"Sevii",
         "DalamudApiLevel": 14,
         "Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
-        "DownloadCount":57721,
         "DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
         "DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
         "DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Aetherment/Aetherment.zip",
@@ -278,5 +257,6 @@
         ]
         }
 ]
+
 
 
