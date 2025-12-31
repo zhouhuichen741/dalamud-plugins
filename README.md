@@ -16,4 +16,4 @@ zhouhuichen741的个人Dalamud插件仓库(CN)
 # Update Log
 国服7.4  .Net10 API14 已全部更新.
 
-国内源(挂了,失效):`https://gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/repo.json`
+国内源(挂了,已失效):`https://gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/repo.json`
