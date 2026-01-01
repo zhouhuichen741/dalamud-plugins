@@ -222,12 +222,12 @@
 		{
         "Author": "Anna",
         "Name": "Peeping Tom S",
-        "Description": "看看你的",
+        "Punchline": "看看你的",
         "InternalName": "PeepingTomS",
         "AssemblyVersion": "1.8.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
-		"Description": "谁在看我? pvp中可用",
+        "Description": "谁在看我? pvp中可用",
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/icon.png",
@@ -257,6 +257,7 @@
         ]
         }
 ]
+
 
 
 
