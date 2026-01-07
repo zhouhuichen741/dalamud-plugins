@@ -100,8 +100,8 @@
             "automation"
         ],
         "InternalName": "Saucy",
-        "AssemblyVersion": "1.4.2.8",
-        "TestingAssemblyVersion": "1.4.2.8",
+        "AssemblyVersion": "1.4.2.9",
+        "TestingAssemblyVersion": "1.4.2.9",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Saucy/Saucy.zip",
@@ -257,6 +257,7 @@
         ]
         }
 ]
+
 
 
 
