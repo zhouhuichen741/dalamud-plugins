@@ -28,7 +28,7 @@
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
         "Changelog": "- 7.4",
-        "AssemblyVersion": "1.6.3.24",
+        "AssemblyVersion": "1.6.3.25",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PandorasBox/icon.png",
@@ -276,6 +276,7 @@
         ]
         }
 ]
+
 
 
 
