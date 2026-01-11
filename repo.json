@@ -27,7 +27,6 @@
         ],
         "InternalName": "PandorasBox",
         "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-        "Changelog": "- 7.4",
         "AssemblyVersion": "1.6.3.25",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
@@ -276,6 +275,7 @@
         ]
         }
 ]
+
 
 
 
