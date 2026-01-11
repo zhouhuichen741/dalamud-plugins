@@ -17,6 +17,25 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip"
         },
         {
+        "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
+        "Name": "Pandora's Box",
+        "Punchline": "你敢打开潘多拉的盒子吗？（在线安装 Only）",
+        "Description": "Pandora's Box是一个改善游戏体验和一些功能调整的集合",
+        "Tags": [
+            "punish",
+            "plugin"
+        ],
+        "InternalName": "PandorasBox",
+        "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
+        "Changelog": "- 7.4",
+        "AssemblyVersion": "1.6.3.24",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PandorasBox/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PandorasBox/PandorasBox.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PandorasBox/PandorasBox.zip"
+        },
+        {
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
         "Punchline": "渔人的直感",
@@ -257,6 +276,7 @@
         ]
         }
 ]
+
 
 
 
