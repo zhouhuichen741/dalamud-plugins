@@ -238,7 +238,7 @@
         {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
-        "AssemblyVersion":"0.7.1.0",
+        "AssemblyVersion":"0.8.0.0",
         "Author":"Sevii",
         "DalamudApiLevel": 14,
         "Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
@@ -257,6 +257,7 @@
         ]
         }
 ]
+
 
 
 
