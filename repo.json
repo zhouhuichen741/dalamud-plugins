@@ -83,8 +83,8 @@
             "crafting"
         ],
         "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.4.30",
-        "TestingAssemblyVersion": "4.0.4.30",
+        "AssemblyVersion": "4.0.4.32",
+        "TestingAssemblyVersion": "4.0.4.32",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
@@ -275,6 +275,7 @@
         ]
         }
 ]
+
 
 
 
