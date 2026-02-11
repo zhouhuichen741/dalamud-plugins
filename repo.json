@@ -237,7 +237,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/UsedNameReborn.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UsedNameReborn/UsedNameReborn.zip"
         },
-		{
+        {
         "Author": "Anna",
         "Name": "Peeping Tom S",
         "Punchline": "看看你的",
@@ -253,7 +253,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip"
         },
-		{
+        {
         "Author": "Nuko",
         "Name": "Better Fake Name",
         "Punchline": "在UI上显示假名字",
@@ -290,5 +290,6 @@
         ]
         }
 ]
+
 
 
