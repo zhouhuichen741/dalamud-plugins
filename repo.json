@@ -253,6 +253,21 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PeepingTomS/PeepingTomS.zip"
         },
+		{
+        "Author": "Nuko",
+        "Name": "Better Fake Name",
+        "Punchline": "在UI上显示假名字",
+        "InternalName": "BetterFakeName",
+        "AssemblyVersion": "1.0.0.4",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "Description": "在UI上显示假名字",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BetterFakeName/BetterFakeName.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BetterFakeName/BetterFakeName.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BetterFakeName/BetterFakeName.zip"
+        },
         {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
@@ -275,4 +290,5 @@
         ]
         }
 ]
+
 
