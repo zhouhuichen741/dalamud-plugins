@@ -75,24 +75,6 @@
         "AcceptsFeedback": true
         },
         {
-        "Author": "Taurenkey & Puni.sh",
-        "Name": "Artisan",
-        "Punchline": "一个'小小的'制作插件.",
-        "Description": "全自动制作插件.",
-        "Tags": [
-            "crafting"
-        ],
-        "InternalName": "Artisan",
-        "AssemblyVersion": "4.0.4.38",
-        "TestingAssemblyVersion": "4.0.4.38",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 14,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/Artisan.zip",
-        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/Artisan/icon.png"
-        },
-        {
         "Author": "Puni.sh",
         "Name": "AutoRetainer",
         "Punchline": "在舒适的床上分配任务给你的雇员.",
