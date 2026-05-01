@@ -1,4 +1,5 @@
-zhouhuichen741的个人Dalamud插件仓库(CN)    [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CSDbE39GjQ)
+zhouhuichen741的个人Dalamud插件仓库(CN)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CSDbE39GjQ)
 
 # 使用教程
 ![image](https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/README.jpg)
