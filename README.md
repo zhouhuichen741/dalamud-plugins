@@ -17,6 +17,6 @@ zhouhuichen741的个人Dalamud插件仓库(CN)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CSDbE39GjQ)
 
 # Update Log
-国服7.4  .Net10 API14 已全部更新.
+国服7.5  .Net10 API15 已全部更新.
 
 国内源(挂了,已失效):`https://gitclone.com/gogs/zhouhuichen741/dalamud-plugins/raw/master/repo.json`
