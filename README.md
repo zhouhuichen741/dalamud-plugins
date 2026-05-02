@@ -13,9 +13,6 @@ zhouhuichen741的个人Dalamud插件仓库(CN)
 
 现在这些插件会出现在插件安装程序中，可以在聊天框中输入 `/xlplugins` 来查看安装.
 
-# 问题提交:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CSDbE39GjQ)
-
 # Update Log
 国服7.5  .Net10 API15 已全部更新.
 
