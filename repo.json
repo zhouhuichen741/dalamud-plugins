@@ -224,7 +224,7 @@
         "Name": "Peeping Tom S",
         "Punchline": "看看你的",
         "InternalName": "PeepingTomS",
-        "AssemblyVersion": "1.8.5",
+        "AssemblyVersion": "1.8.6",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
         "Description": "谁在看我? pvp中可用",
