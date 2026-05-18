@@ -8,10 +8,13 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+          persist-credentials: false
 
       - uses: actions/setup-node@v4
         with:
@@ -19,16 +22,16 @@ jobs:
 
       - run: npm install node-fetch@2
 
-      - name: Update downloads
+      - name: Run updater
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/update-downloads.js
 
-      - name: Commit
+      - name: Push changes
         run: |
           git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/zhouhuichen741/dalamud-plugins.git
           git add repo.json
-          git diff --cached --quiet && exit 0
-          git commit -m "Auto update download counts"
+          git diff --cached --quiet || git commit -m "Auto update download counts"
           git push
