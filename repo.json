@@ -59,6 +59,29 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/PandorasBox/PandorasBox.zip"
         },
         {
+        "Author": "sourpuh (Formerly Infi & PunishedPineapple),zhouhuichen741(汉化)",
+        "Name": "Waymark Preset Plugin CN",
+        "InternalName": "WaymarkPresetPluginCN",
+        "AssemblyVersion": "1.5.5.4",
+        "Description": "允许你保存、编辑、放置、导入、导出以及预览无限数量的场地标点预设。",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/sourpuh/WaymarkPresetPlugin",
+        "Tags": [
+            "Waymark",
+            "Marker",
+            "Preset",
+            "Tool"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip"
+        "Punchline": "提供场地标点管理"
+        },
+        {
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
         "Punchline": "渔人的直感",
