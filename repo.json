@@ -63,6 +63,7 @@
         "Name": "Waymark Preset Plugin CN",
         "InternalName": "WaymarkPresetPluginCN",
         "AssemblyVersion": "1.5.5.4",
+        "Punchline": "提供场地标点管理",
         "Description": "允许你保存、编辑、放置、导入、导出以及预览无限数量的场地标点预设。",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/sourpuh/WaymarkPresetPlugin",
@@ -79,7 +80,6 @@
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/icon.png",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip"
-        "Punchline": "提供场地标点管理"
         },
         {
         "Author": "Nukoooo",
