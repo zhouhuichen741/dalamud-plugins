@@ -81,6 +81,25 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/WaymarkPresetPlugin/WaymarkPresetPlugin.zip"
         },
+		{
+        "Author": "goat, Maple",
+        "Name": "Ultrawide Cutscenes Reborn",
+        "Punchline": "在宽屏显示器上移除过场动画中的黑边.",
+        "Description": "该插件可在超宽显示器上观看过场动画时移除 “黑边” 条。\n注意！你可能会看到本不该出现的内容，例如即将登场的 NPC 突然载入或摆出 T 字姿势。\n\n感谢 aers 发现此方法。",
+        "InternalName": "UltrawideCutscenesReborn",
+        "AssemblyVersion": "1.0.0.8",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 15,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 69420,
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UltrawideCutscenesReborn/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UltrawideCutscenesReborn/UltrawideCutscenesReborn.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UltrawideCutscenesReborn/UltrawideCutscenesReborn.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/UltrawideCutscenesReborn/UltrawideCutscenesReborn.zip"
+        },
         {
         "Author": "Nukoooo",
         "Name": "FishersIntuition",
