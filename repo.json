@@ -12,7 +12,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Changelog": "新增优化项：更快的解压缩\n\n使用 英特尔智能存储加速库（ISA-L）(https://github.com/intel/isa-l) 中的优化实现，替换游戏原生的 zlib.uncompress 函数，大幅提速资源加载。\n\n计划最终将其集成到 Dalamud 中，为所有用户提供这一速度提升，但维护人员目前现实事务繁忙。这也给了我们充分的测试时间！:)",
+        "Changelog": "新增优化项：更快的解压缩\n\n使用 英特尔智能存储加速库（ISA-L）(https://github.com/intel/isa-l) 中的优化实现，替换游戏原生的 zlib.uncompress 函数，大幅提速资源加载速度。\n\n计划最终将其集成到 Dalamud 中，为所有用户提供这一速度提升，但维护人员目前现实事务繁忙。这也给了我们充分的测试时间！:)",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip"
