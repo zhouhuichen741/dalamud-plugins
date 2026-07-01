@@ -21,7 +21,7 @@
         "Author": "Tynia",
         "Name": "Tynia PVP Radar",
         "InternalName": "TyniaPVPRadar",
-        "AssemblyVersion": "1.0.4.10",
+        "AssemblyVersion": "1.0.4.11",
         "Punchline": "PVP小助手（在线安装 Only）",
         "Description": "在PVP地图中显示所有玩家信息，支持连线、标记和关注列表功能",
         "ApplicableVersion": "any",
