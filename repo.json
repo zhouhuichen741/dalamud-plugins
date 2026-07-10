@@ -12,7 +12,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Changelog": "新增优化：角色窗口的友好部族传送\n\n- 在角色窗口中点击友好部族声望时，会将你传送至最近的以太水晶，而非打开地图。按住 Shift 键再点击即可正常打开地图。\n\n登入/登出增强\n\n- 调整/修复：为避免角色生成时出现 T 字站姿，表情动作现在会在角色完全显示后再播放。",
+        "Changelog": "新增优化：角色窗口的友好部族传送\n\n- 在角色窗口中点击友好部族声望时，会将你传送至最近的以太水晶，而非打开地图。按住shift键再点击即可正常打开地图。\n\n登入/登出增强\n\n- 调整/修复：为避免角色生成时出现 T 字站姿，表情动作现在会在角色完全显示后再播放。",
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip"
