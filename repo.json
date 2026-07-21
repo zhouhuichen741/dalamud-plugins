@@ -318,6 +318,32 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BetterFakeName/BetterFakeName.zip"
         },
         {
+        "Author": "Aireil",
+        "Name": "FFlogs Viewer CN",
+        "InternalName": "FFLogsViewer",
+        "AssemblyVersion": "2.5.3.3",
+        "Description": "在游戏内查看 FF Logs 排名百分比。添加右键菜单来打开角色日志。布局、样式、统计、默认指标等均可在设置中自定义。",
+        "Punchline": "在游戏内查看 FF Logs 排名百分比。",
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Aireil/FFLogsViewer",
+        "Tags": [
+            "FFLogs"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/image1.png",
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/image2.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/icon.png",
+        "DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
+        "DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip",
+        "DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip"
+        },
+        {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
         "AssemblyVersion":"0.8.8.0",
