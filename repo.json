@@ -321,7 +321,7 @@
         "Author": "Aireil",
         "Name": "FFlogs Viewer CN",
         "InternalName": "FFLogsViewer",
-        "AssemblyVersion": "2.5.3.4",
+        "AssemblyVersion": "2.5.3.5",
         "Description": "在游戏内查看 FF Logs 排名百分比。添加右键菜单来打开角色日志。布局、样式、统计、默认指标等均可在设置中自定义。",
         "Punchline": "在游戏内查看 FF Logs 排名百分比。",
         "AcceptsFeedback": false,
