@@ -134,7 +134,7 @@
         "LoadRequiredState": 0,
         "LoadSync": false,
         "LoadPriority": 0,
-        "Punchline": "Bard performance using midi files or keyboard.",
+        "Punchline": "使用Midi文件或键盘进行吟游诗人表演.",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/MidiBard/MidiBard.zip",
@@ -346,7 +346,7 @@
         {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
-        "AssemblyVersion":"0.8.8.0",
+        "AssemblyVersion":"0.8.9.0",
         "Author":"Sevii",
         "DalamudApiLevel": 15,
         "Description":"自动更新Mod，并允许更多的自定义，如颜色和合成到其他文件",
