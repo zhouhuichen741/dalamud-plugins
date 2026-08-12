@@ -367,8 +367,7 @@
         "LoadSync": false,
         "LoadPriority": 0,
         "ImageUrls": [
-            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/image1.png",
-            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/image2.png"
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/image1.png"
         ],
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/icon.png",
         "DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/VisibilityEx.zip",
