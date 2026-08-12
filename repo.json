@@ -344,6 +344,38 @@
         "DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/FFLogsViewer/FFLogsViewer.zip"
         },
         {
+        "Author": "SheepGoMeh",
+        "Name": "Visibility Ex",
+        "InternalName": "VisibilityEx",
+        "AssemblyVersion": "1.1.9.6",
+        "Description": "可隐藏玩家、召唤兽、陆行鸟及宠物。包含更完善的黑名单系统。通过 /pvis 打开设置，使用 /xlhelp 查看更多帮助。",
+        "Punchline": "可隐藏玩家、召唤兽、陆行鸟及宠物。",
+        "AcceptsFeedback": false,
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SheepGoMeh/VisibilityPlugin",
+        "Tags": [
+            "Blacklist",
+            "Void",
+            "VoidList",
+            "Ban",
+            "Hide",
+            "Visibility",
+            "QoL"
+        ],
+        "DalamudApiLevel": 15,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/image1.png",
+            "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/image2.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/icon.png",
+        "DownloadLinkInstall":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/VisibilityEx.zip",
+        "DownloadLinkTesting":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/VisibilityEx.zip",
+        "DownloadLinkUpdate":"https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/VisibilityEx/VisibilityEx.zip"
+        },
+        {
         "AcceptsFeedback":false,
         "ApplicableVersion":"any",
         "AssemblyVersion":"0.8.9.0",
