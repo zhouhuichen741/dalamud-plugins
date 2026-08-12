@@ -347,7 +347,7 @@
         "Author": "SheepGoMeh",
         "Name": "Visibility Ex",
         "InternalName": "VisibilityEx",
-        "AssemblyVersion": "1.1.9.6",
+        "AssemblyVersion": "1.1.9.7",
         "Description": "可隐藏玩家、召唤兽、陆行鸟及宠物。包含更完善的黑名单系统。通过 /pvis 打开设置，使用 /xlhelp 查看更多帮助。",
         "Punchline": "可隐藏玩家、召唤兽、陆行鸟及宠物。",
         "AcceptsFeedback": false,
