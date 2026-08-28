@@ -12,7 +12,7 @@
         "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "Changelog": "已移除调整：可滚动选项卡（Scrollable Tabs）/n该功能现已作为独立插件发布于 Dalamud 主仓库。请通过插件安装器安装「Scrollable Tabs」。/n/n已移除调整：商店物品显示图标（Shop Item Icons）/n/n该功能现已作为独立插件发布于 Dalamud 主仓库。请通过插件安装器安装「Shop Item Icons」。",
+        "Changelog": "已移除调整：可滚动选项卡（Scrollable Tabs）/n该功能现已作为独立插件发布于 Dalamud 主仓库。请通过插件安装器安装「Scrollable Tabs」。/n/n已移除调整：商店物品显示图标（Shop Item Icons）/n该功能现已作为独立插件发布于 Dalamud 主仓库。请通过插件安装器安装「Shop Item Icons」。",
         "LoadRequiredState": 0,
         "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/icon.png",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/HaselTweaks/HaselTweaks.zip",
