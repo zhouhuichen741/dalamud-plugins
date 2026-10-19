@@ -319,6 +319,22 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/BetterFakeName/BetterFakeName.zip"
         },
         {
+        "Author": "Loskh",
+        "Name": "AoAoEnergy",
+        "Punchline": "将爆发药特效替换为嗷嗷有劲的RGB光效。",
+        "InternalName": "AoAoEnergy",
+        "AssemblyVersion": "1.1.7.5",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 15,
+        "Description": "嗷嗷有劲",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "IconUrl": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AoAoEnergy/icon.png",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AoAoEnergy/AoAoEnergy.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AoAoEnergy/AoAoEnergy.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/plugins/AoAoEnergy/AoAoEnergy.zip"
+        },
+        {
         "Author": "Aireil",
         "Name": "FFlogs Viewer CN",
         "InternalName": "FFLogsViewer",
