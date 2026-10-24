@@ -323,7 +323,7 @@
         "Name": "AoAoEnergy",
         "Punchline": "将爆发药特效替换为嗷嗷有劲的RGB光效。",
         "InternalName": "AoAoEnergy",
-        "AssemblyVersion": "1.1.7.9",
+        "AssemblyVersion": "1.1.8.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
         "Description": "嗷嗷有劲",
