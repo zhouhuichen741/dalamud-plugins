@@ -24,7 +24,7 @@
         "Punchline": "自动完成打字小游戏",
         "Description": "自动完成打字小游戏：进入魔光键影打字游戏后，自动读取敌人名字并直接注入输入框完成输入，支持自定义运行间隔。",
         "InternalName": "KeyKing",
-        "AssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.1.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
         "IsHide": "False",
